@@ -1,0 +1,2 @@
+# LEI Nº 16.086, DE 14 DE MAIO DE 2021 Autoriza o Poder Executivo a conceder subvenções a entidades privadas sem fins econômicos visando à execução de programas, projetos e serviços para a execução da Política Municipal de Atendimento dos Direitos da Criança e do Adolescente e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

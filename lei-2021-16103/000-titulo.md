@@ -1,0 +1,1 @@
+# LEI Nº 16.103 DE 21 DE JULHO DE 2021 Dispõe sobre o Mês do Laço Branco - Homens pelo Fim da Violência contra a Mulher O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 308, DE 14 SETEMBRO DE 2021 Dispõe sobre a extinção e a criação de cargos em comissão e funções de chefia pertencentes aos quadros próprios da autarquia pública municipal Rede Municipal Dr. Mário Gatti de Urgência, Emergência e Hospitalar e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

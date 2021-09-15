@@ -1,0 +1,2 @@
+# LEI Nº 16.113, DE 14 DE SETEMBRO DE 2021 Dispõe sobre a majoração temporária do percentual máximo de desconto em folha previsto no inciso I do § 3º do art. 2º da Lei nº 13.511, de 23 de dezembro de 2008, que "dispõe sobre a proibição da administração pública municipal de promover desconto em folha de pagamento de servidor, das obrigações assumidas por terceiros".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

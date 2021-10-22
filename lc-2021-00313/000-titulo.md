@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 313, DE 21 DE OUTUBRO DE 2021 Altera os §§ 1º e 2º do art. 1º da Lei nº 13.542, de 23 de março de 2009, que "dispõe sobre a instalação, reinstalação e funcionamento de atividades dedicadas à operação de desmanche, compra e venda de sucatas e de peças novas e usadas de veículos e dá outras providências".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

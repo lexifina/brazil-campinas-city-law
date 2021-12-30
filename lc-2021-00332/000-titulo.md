@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 332, DE 29 DE DEZEMBRO DE 2021 Revoga o parágrafo único do art. 47 da Lei Complementar nº 191, de 8 de março de 2018, que "dispõe sobre a transformação da autarquia pública municipal Hospital Municipal Dr. Mário Gatti em autarquia pública municipal Rede Municipal Dr. Mário Gatti de Urgência, Emergência e Hospitalar, para atuar nas áreas de urgência, emergência e hospitalar do município de Campinas e dá outras providências".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

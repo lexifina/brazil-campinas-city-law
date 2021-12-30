@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 330, DE 29 DE DEZEMBRO DE 2021 Altera dispositivos da Lei nº 10.569, de 30 de junho de 2000, que "dispõe sobre normas para estabelecimentos destinados a lavagem, lubrificação, limpeza, polimento, troca de óleo e serviços afins, de veículos automotores".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

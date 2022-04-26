@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 346, DE 25 DE ABRIL DE 2022 Altera o art. 1º da Lei Complementar nº 192, de 17 de abril de 2018, que "dispõe sobre a desafetação de área de praça da classe de bens públicos de uso comum do povo para afetação ao uso especial, a fim de regularizar a instalação da Unidade de Saúde Mental - CAPS Integração, no loteamento Vila Castelo Branco".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

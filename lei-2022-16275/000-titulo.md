@@ -1,0 +1,2 @@
+# LEI Nº 16.275, DE 29 DE JUNHO DE 2022 Acrescenta dispositivo à Lei nº 12.364, de 20 de setembro de 2005, "que dispõe sobre a utilização pelos estabelecimentos comerciais de selo ou lacre inviolável nas embalagens dos alimentos para pronto consumo entregues em domicílio, e dá outras providências".
+A O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

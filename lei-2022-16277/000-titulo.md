@@ -1,0 +1,2 @@
+# LEI Nº 16.277, DE 4 DE JULHO DE 2022 Dispõe sobre a obrigatoriedade de o Poder Executivo de Campinas divulgar, em sítio eletrônico, informações sobre os valores que recebe do Governo Estadual a título de repartição do recolhimento do Imposto sobre a Propriedade de Veículos Automotores - IPVA.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

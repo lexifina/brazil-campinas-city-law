@@ -1,0 +1,1 @@
+# LEI Nº 16.291, DE 19 DE SETEMBRO DE 2022 Autoriza o Poder Executivo a utilizar recursos orçamentários para aumento do capital da Companhia de Habitação Popular de Campinas - Cohab- -Campinas A O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

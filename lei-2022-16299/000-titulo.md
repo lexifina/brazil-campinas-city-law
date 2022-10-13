@@ -1,0 +1,1 @@
+# LEI Nº 16.299, DE 11 DE OUTUBRO DE 2022 Denomina Rua Darlei dos Anjos Ribeiro uma via pública do município de Campinas O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

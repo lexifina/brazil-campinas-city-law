@@ -1,0 +1,1 @@
+# LEI COMPLEMENTAR Nº 367, DE 13 DE OUTUBRO DE 2022 Dispõe sobre a criação de cargos públicos de provimento efetivo de Professor de Educação Básica IV - PEB IV O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

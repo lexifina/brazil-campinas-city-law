@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 372, DE 3 DE NOVEMBRO DE 2022 Altera o art. 1º da Lei nº 13.945, de 24 de novembro de 2010, que desincorpora da classe de bens públicos de uso comum do povo e transfere para a classe de bens dominicais área de propriedade da Municipalidade, no loteamento Jardim Chapadão Continuação, e autoriza a alienação por investidura ao proprietário lindeiro.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

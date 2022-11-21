@@ -1,0 +1,1 @@
+# LEI Nº 16.313, DE 18 DE OUTUBRO DE 2022 Declara órgão de utilidade pública municipal o 102º SP Grupo Escoteiro do Mar Velho Lobo, no âmbito do município de Campinas O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

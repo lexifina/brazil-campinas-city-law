@@ -1,0 +1,2 @@
+# LEI Nº 16.328, DE 16 DE DEZEMBRO DE 2022 Altera as alíneas "a" e "b" do inciso III do art. 5º da Lei nº 15.539, de 15 de dezembro de 2017, que "dispõe sobre o serviço remunerado para transporte individual de passageiros oferecido e solicitado exclusivamente por aplicativos, sítios ou plataformas tecnológicas ligados à rede mundial de computadores".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

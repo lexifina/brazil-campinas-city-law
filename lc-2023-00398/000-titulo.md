@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 398, DE 22 DE FEVEREIRO DE 2023 Desincorpora da classe de bens públicos de uso comum do povo e transfere para a classe de bens de uso especial parte da Praça Sistema de Recreio do loteamento Dom Paulo de Tarso Campos, para fins de regularização e ampliação do Centro de Saúde Dr. Paulo Camargo Ferraz, e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 404, DE 12 DE ABRIL DE 2023 Altera a Lei Complementar nº 282, de 14 de agosto de 2020, que "desincorpora da classe de bens públicos de uso comum do povo, transfere para a classe de bens dominicais e autoriza o Poder Executivo a alienar por investidura, exclusivamente ao proprietário lindeiro, área destacada do viário municipal".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

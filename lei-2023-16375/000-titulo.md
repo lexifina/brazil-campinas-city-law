@@ -1,0 +1,1 @@
+# LEI Nº 16.375, DE 24 DE ABRIL DE 2023 Institui no calendário oficial do município de Campinas o Dia da Favela O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

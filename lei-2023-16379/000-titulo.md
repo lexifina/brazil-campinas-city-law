@@ -1,0 +1,1 @@
+# LEI Nº 16.379, DE 2 DE MAIO DE 2023 Dispõe sobre a criação, nos parques e nas praças do município de Campinas, dos slackpoints, equipamentos públicos destinados à prática de slackline O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

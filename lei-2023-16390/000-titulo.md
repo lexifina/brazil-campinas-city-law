@@ -1,0 +1,2 @@
+# LEI Nº 16.390, DE 16 DE MAIO DE 2023 Altera a Lei nº 14.453, de 23 de outubro de 2012, que dispõe sobre a criação do Programa Horta Escolar nas instituições de ensino do Município de Campinas, para recomendar o cultivo e o consumo de ora-pro-nóbis (Pereskia aculeata) nas escolas municipais, bem como a divulgação de informações sobre a planta.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

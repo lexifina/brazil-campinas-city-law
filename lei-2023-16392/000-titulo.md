@@ -1,0 +1,1 @@
+# LEI Nº 16.392, DE 19 DE MAIO DE 2023 Declara órgão de utilidade pública municipal a Associação Esportiva Itajaí O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

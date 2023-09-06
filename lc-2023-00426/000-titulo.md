@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 426, DE 29 DE AGOSTO DE 2023 Dispõe sobre a autorização para celebração de parcerias entre entidades associativas proprietárias e/ou donatárias de áreas e a Companhia de Habitação Popular de Campinas para desenvolvimento e implantação de projetos habitacionais de interesse social no município.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

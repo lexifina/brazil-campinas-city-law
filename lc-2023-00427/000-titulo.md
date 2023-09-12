@@ -1,0 +1,1 @@
+# LEI COMPLEMENTAR Nº 427, DE 6 DE SETEMBRO DE 2023 Acrescenta o art. 32-A à Lei Complementar nº 378, de 29 de 2022 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

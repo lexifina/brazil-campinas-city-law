@@ -1,0 +1,2 @@
+# LEI Nº 16.535, DE 28 DE MARÇO DE 2024 Altera dispositivo da Lei nº 15.449, de 28 de junho de 2017 - Estatuto de Proteção, Defesa e Controle das Populações de Animais Domésticos do Município de Campinas, para autorizar a implantação de áreas públicas destinadas à socialização animal.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

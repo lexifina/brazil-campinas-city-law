@@ -1,0 +1,2 @@
+# LEI Nº 16.561, DE 15 DE MAIO DE 2024 Altera o art. 4º da Lei nº 14.759, de 28 de fevereiro de 2014, que aprova as tabelas de vencimentos dos cargos efetivos do Quadro Permanente de Pessoal, fixa a remuneração dos cargos em comissão e estabelece as gratificações de função previstas na estrutura administrativa da Câmara Municipal de Campinas.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

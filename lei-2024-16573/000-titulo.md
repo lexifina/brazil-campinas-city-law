@@ -1,0 +1,1 @@
+# LEI Nº 16.573, DE 29 DE MAIO DE 2024 Institui o Dia Municipal da Conscientização sobre Prevenção de Doenças e Acidentes de Trabalho e dá outras providências O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

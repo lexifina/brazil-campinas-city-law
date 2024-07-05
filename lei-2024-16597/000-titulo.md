@@ -1,0 +1,1 @@
+# LEI Nº 16.597, DE 4 DE JULHO DE 2024 Altera a Lei nº 356, de 14 de julho de 1950, que "dá o nome de ?Portugal? ao Parque Municipal, que circunda a Lagoa Taquaral", para renomeá-lo como "Parque Portugal - Arquiteto Denis Roberto Castro Perez" O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

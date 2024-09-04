@@ -1,0 +1,2 @@
+# LEI Nº 16.618, DE 3 DE SETEMBRO DE 2024 Revoga a Lei nº 5.049, de 11 de dezembro de 1980, a Lei nº 5.530, de 11 de dezembro de 1984, a Lei nº 5.616, de 22 de outubro de 1985, a Lei nº 6.804, de 4 de dezembro de 1991, a Lei nº 9.329, de 17 de julho de 1997, a Lei nº 12.712, de 11 de dezembro de 2006, a Lei nº 13.043, de 29 de agosto de 2007, e a Lei nº 13.737, de 4 de dezembro de 2009.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

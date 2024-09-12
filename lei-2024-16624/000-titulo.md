@@ -1,0 +1,1 @@
+# LEI Nº 16.624, DE 11 DE SETEMBRO DE 2024 Reconhece, no âmbito do município de Campinas, as festas juninas e quermesses como manifestações culturais municipais O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

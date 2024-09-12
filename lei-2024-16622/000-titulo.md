@@ -1,0 +1,1 @@
+# LEI Nº 16.622, DE 11 DE SETEMBRO DE 2024 Revoga a Lei nº 2.200, de 11 de dezembro de 1959, e a Lei nº 13.214, de 21 de dezembro de 2007 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

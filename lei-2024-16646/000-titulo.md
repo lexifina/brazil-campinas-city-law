@@ -1,0 +1,1 @@
+# LEI Nº 16.646, DE 17 OUTUBRO DE 2024 Institui no calendário oficial de Campinas o Dia Municipal do Motoclube O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

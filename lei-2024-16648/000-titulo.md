@@ -1,0 +1,1 @@
+# LEI Nº 16.648, DE 17 OUTUBRO DE 2024 Institui o Dia da Mulher Motociclista e o inclui no calendário oficial de eventos do município de Campinas O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

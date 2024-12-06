@@ -1,0 +1,2 @@
+# LEI Nº 16.670, DE 5 DE DEZEMBRO DE 2024 Autoriza o Poder Executivo a celebrar convênios com a Fazenda Pública da União e as dos Estados, do Distrito Federal e dos Municípios para fornecimento de dados cadastrais e econômico-fiscais e outras informações de interesse público, nos termos do disposto no art. 199 da Lei Federal nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

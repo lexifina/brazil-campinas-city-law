@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 513, DE 31 DE DEZEMBRO DE 2024.
+Altera a Lei nº 13.213, de 21 de dezembro de 2007, em decorrência da unificação das áreas das matrículas nº 261.679 (com área de 113,00m²) e nº 261.680 (com área de 537,32m²), que passaram a formar uma só área de 650,32m², conforme descrito e caracterizado na Matrícula nº 261.682, todas do 3º Registro de Imóveis de Campinas O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

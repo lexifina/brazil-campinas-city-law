@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 514, DE 3 DE JANEIRO DE 2025.
+Desafeta bens públicos municipais e autoriza o Poder Executivo a alienar, exclusivamente aos proprietários lindeiros, áreas de vielas de passagem de pedestres, de propriedade da Municipalidade, do loteamento Jardim São Fernando O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

@@ -1,0 +1,1 @@
+# PREÂMBULO O Povo de Campinas, buscando a concretização do Estado Democrático, por seus legítimos representantes no uso de suas atribuições constitucionais e legais, reunidos em Sessão Solene de 30 de março de 1990 da Constituinte Municipal promulga, invocando a proteção de Deus, a presente Lei Orgânica.

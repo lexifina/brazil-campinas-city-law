@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 520, DE 13 DE MAIO DE 2025.
+Altera a Lei Complementar nº 415, de 1º de junho de 2023, que "autoriza a Prefeitura Municipal de Campinas a contratar plano de medicamentos para os servidores públicos ativos e inativos e para os pensionistas da Prefeitura Municipal de Campinas que recebam proventos e pensões cujo valor não seja superior ao triplo do piso dos servidores do Município" O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

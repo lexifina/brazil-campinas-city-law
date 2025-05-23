@@ -1,0 +1,2 @@
+# LEI Nº 16.747, DE 22 DE MAIO DE 2025 Autoriza o Poder Executivo a repassar recursos oriundos do Fundo Municipal para a Defesa da Criança e do Adolescente - FMDCA para financiamento de projetos aprovados por deliberação do Conselho Municipal dos Direitos da Criança e do Adolescente.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

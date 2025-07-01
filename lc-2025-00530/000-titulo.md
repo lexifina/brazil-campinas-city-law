@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 530, DE 30 DE JUNHO DE 2025 Dispõe sobre a desafetação de áreas de praça da classe de bens públicos de uso comum do povo e sua afetação ao uso especial, para a construção e implantação de unidades educacionais e de saúde, no loteamento Village Campinas.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

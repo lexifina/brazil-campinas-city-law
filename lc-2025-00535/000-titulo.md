@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 535, DE 21 DE JULHO DE 2025 Dispõe sobre a criação de plano de cargos, carreira e vencimentos para os servidores pertencentes aos quadros próprios da autarquia pública municipal Rede Municipal Dr.
+Mário Gatti de Urgência, Emergência e Hospitalar e dá outras providências O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

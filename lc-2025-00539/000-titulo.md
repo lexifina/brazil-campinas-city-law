@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 539, DE 7 DE OUTUBRO DE 2025 Dispõe sobre o Programa de Regularização Fiscal de Campinas - Refis Campinas 2025, que oferece condições especiais por tempo determinado para pagamento, à vista ou parcelado, de créditos tributários e não tributários, e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

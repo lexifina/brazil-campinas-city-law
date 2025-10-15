@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 543, DE 14 DE OUTUBRO DE 2025 Desafeta bens públicos municipais e autoriza o Poder Executivo a alienar, exclusivamente aos proprietários lindeiros, área de viela de passagem de pedestres, de propriedade da Municipalidade, do loteamento Arruamento D.A.E., Quarteirão nº 2.749.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

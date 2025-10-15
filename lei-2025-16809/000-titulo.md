@@ -1,0 +1,2 @@
+# LEI Nº 16.809, DE 14 DE OUTUBRO DE 2025 Obriga as concessionárias de veículos situadas no município de Campinas a afixar em suas dependências informativo sobre os direitos da pessoa com deficiência referentes à Lei Federal nº 8.989, de 24 de fevereiro de 1995, que "dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis para utilização no transporte autônomo de passageiros, bem como por pessoas com deficiência".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

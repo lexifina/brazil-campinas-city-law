@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 544, DE 21 DE OUTUBRO DE 2025 Desafeta bens públicos municipais e autoriza o Poder Executivo a alienar, exclusivamente aos proprietários lindeiros, área de viela de passagem de pedestres, de propriedade da Municipalidade, do loteamento Caminhos de San Conrado.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

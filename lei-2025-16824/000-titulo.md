@@ -1,0 +1,1 @@
+# LEI Nº 16.824, DE 14 DE NOVEMBRO DE 2025 Dispõe sobre o Plano Plurianual para o Quadriênio 2026-2029 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

@@ -1,0 +1,1 @@
+# LEI COMPLEMENTAR Nº 553, DE 26 DE NOVEMBRO DE 2025 Altera a Lei Complementar nº 40, de 1º de outubro de 2013, que "autoriza a doação de terreno municipal à União para fins de instalação da sede do Departamento de Polícia Federal em Campinas" O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

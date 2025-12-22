@@ -1,0 +1,1 @@
+# LEI COMPLEMENTAR Nº 562, DE 19 DE DEZEMBRO DE 2025 Dispõe sobre a atualização da Planta Genérica de Valores - PGV, nos termos do § 1º do art. 16-A da Lei nº 11.111, de 26 de dezembro de 2001 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

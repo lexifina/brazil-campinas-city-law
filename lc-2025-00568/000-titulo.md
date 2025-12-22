@@ -1,0 +1,1 @@
+# LEI COMPLEMENTAR Nº 568, DE 19 DE DEZEMBRO DE 2025 Dispõe sobre as formas de pagamento de créditos tributários pelo empresário ou pela sociedade empresária que tiverem deferido o processamento da recuperação judicial, nos termos que especifica O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

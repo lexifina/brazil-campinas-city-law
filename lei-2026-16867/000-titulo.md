@@ -1,0 +1,1 @@
+# LEI Nº 16.867, DE 12 DE JANEIRO DE 2026 Denomina Rua Stella Margarida Polli uma via pública do município de Campinas O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

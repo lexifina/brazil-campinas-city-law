@@ -1,0 +1,2 @@
+# LEI Nº 16.877, DE 13 DE MARÇO DE 2026 Institui a Lei Larissa, que dispõe sobre a utilização das faixas exclusivas para ônibus de transporte coletivo urbano por veículos que prestam serviços ao Programa de Acessibilidade Inclusiva - PAI e ao Serviço Especial Conveniado - SEC Ligado, por vans escolares adaptadas e por táxis e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

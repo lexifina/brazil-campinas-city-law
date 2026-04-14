@@ -1,0 +1,1 @@
+# LEI Nº 16.898, DE 13 DE ABRIL DE 2026 Denomina Rua Maria Cristina Gadia uma via pública do município de Campinas O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

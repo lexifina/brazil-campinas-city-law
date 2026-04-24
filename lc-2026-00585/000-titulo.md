@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 585, DE 23 DE ABRIL DE 2026 Desafeta da classe de bens de uso comum do povo e transfere para a classe de bens dominicais área de propriedade da Municipalidade, localizada no loteamento Cidade Satélite Íris, e autoriza sua doação, com encargo, ao Estado de São Paulo, para a construção de unidade escolar estadual.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

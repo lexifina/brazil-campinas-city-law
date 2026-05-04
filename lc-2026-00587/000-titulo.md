@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 587, DE 30 DE ABRIL DE 2026 Dispõe sobre o Programa de Regularização do Imposto Sobre Serviços de Qualquer Natureza de Campinas - Refis ISSQN Campinas, que oferece condições especiais por tempo determinado para pagamento, à vista ou parcelado, de créditos tributários, e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

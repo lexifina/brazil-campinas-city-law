@@ -1,0 +1,1 @@
+# LEI Nº 16.916, DE 8 DE MAIO DE 2026 Obriga os postos revendedores de combustíveis a afixar os preços dos combustíveis em placas com os mesmos valores praticados nas bombas de abastecimento O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

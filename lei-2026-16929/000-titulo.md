@@ -1,0 +1,1 @@
+# LEI Nº 16.929, DE 1 JUNHO DE 2026 Denomina Rua Antonio Petrucelli uma via pública do município de Campinas O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

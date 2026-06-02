@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 589, DE 1 DE JUNHO DE 2026 Desincorpora da classe de bens públicos de uso comum do povo, transfere para a classe de bens dominicais, autoriza o Poder Executivo a alienar, exclusivamente ao proprietário lindeiro, áreas de propriedade da Municipalidade no loteamento Jardim Novo Campos Elíseos e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

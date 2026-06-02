@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 591, DE 1 DE JUNHO DE 2026 Desincorpora da classe de bens públicos de uso comum do povo, transfere para a classe de bens dominicais e autoriza o Poder Executivo a alienar exclusivamente aos proprietários dos imóveis lindeiros áreas de passagem de pedestres de propriedade municipal localizadas no loteamento Jardim Antonio Von Zuben e no loteamento Jardim das Cerejeiras, e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

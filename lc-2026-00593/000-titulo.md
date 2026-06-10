@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 593, DE 9 DE JUNHO DE 2026 Altera a Lei Complementar nº 509, de 20 de dezembro de 2024, para incluir disposições sobre limitação de pontos, transferência de permissões, penalidades e regulamentação de instalações removíveis para comércio ambulante.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

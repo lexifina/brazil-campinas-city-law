@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 600, DE 25 DE JUNHO DE 2026 Dispõe sobre a desafetação de área de praça da classe de bens públicos de uso comum do povo e afetação ao uso especial, para implantação de equipamento público comunitário destinado ao uso da Secretaria Municipal de Saúde.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

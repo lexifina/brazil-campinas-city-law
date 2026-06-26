@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 601, DE 25 DE JUNHO DE 2026 Revoga a Lei Complementar nº 46, de 20 de dezembro de 2013, que "autoriza a concessão de direito real de uso ao Centro de Referência PAICA - Projeto de Atenção Integral à Criança e Adolescente, e dá outras providências".
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

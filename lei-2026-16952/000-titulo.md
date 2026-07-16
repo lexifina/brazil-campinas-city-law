@@ -1,0 +1,1 @@
+# LEI Nº 16.952, DE 15 JULHO DE 2026 Autoriza o Município de Campinas a aderir ao Sistema Nacional do Esporte - Sinesp, nos termos da Lei Federal nº 14.597, de 14 de junho de 2023 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

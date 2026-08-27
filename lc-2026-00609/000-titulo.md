@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 609, DE 26 DE AGOSTO DE 2026 Autoriza o Poder Executivo a promover a adesão do Município de Campinas ao Parcelamento Excepcional de Municípios - PEM 2025, relativamente aos débitos previdenciários de responsabilidade do Município perante o Regime Geral de Previdência Social - RGPS, e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

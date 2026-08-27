@@ -1,0 +1,2 @@
+# LEI Nº 16.955, DE 26 AGOSTO DE 2026 Autoriza o Poder Executivo municipal a celebrar termo aditivo, instrumento de reparcelamento, repactuação, revisão ou consolidação das condições da dívida do Município de Campinas com a União decorrente do contrato celebrado com fundamento na Medida Provisória nº 1.969-12, de 6 de janeiro de 2000, atual Medida Provisória nº 2.185-35, de 24 de agosto de 2001, e dá outras providências.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

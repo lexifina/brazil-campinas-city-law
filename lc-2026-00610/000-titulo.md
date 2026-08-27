@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 610, DE 26 DE AGOSTO DE 2026 Autoriza o parcelamento e o reparcelamento de débitos do Município de Campinas com o Regime Próprio de Previdência Social - RPPS, de que tratam os arts. 115 e 117 do Ato das Disposições Constitucionais Transitórias - ADCT, com a redação conferida pela Emenda Constitucional nº 136, de 9 de setembro de 2025.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:

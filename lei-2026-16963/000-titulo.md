@@ -1,0 +1,2 @@
+# LEI Nº 16.963, DE 15 SETEMBRO DE 2026 Altera a Lei nº 15.449, de 28 de junho de 2017, que "dispõe sobre o Estatuto de Proteção, Defesa e Controle das Populações de Animais Domésticos do Município de Campinas e dá outras providências", para proibir a distribuição de animais como brindes.
+O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

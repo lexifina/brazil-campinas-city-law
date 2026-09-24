@@ -1,0 +1,1 @@
+# LEI Nº 16.973, DE 23 SETEMBRO DE 2026 Altera a Lei nº 11.924, de 29 de março de 2004, que "denomina Praça Profª Isolina Ignez Annicchini Loschi (Zeni) uma praça pública do município de Campinas" O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:

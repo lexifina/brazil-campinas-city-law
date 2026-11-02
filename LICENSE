@@ -1,0 +1,12 @@
+Law texts
+
+The texts in this repository are laws of the Município de Campinas, São Paulo as published by the Câmara Municipal de Campinas (https://sapl.campinas.sp.leg.br/norma/1).
+
+- Copyright: "Não são objeto de proteção como direitos autorais de que trata esta Lei: [...] IV - os textos de tratados ou convenções, leis, decretos, regulamentos, decisões judiciais e demais atos oficiais" (Lei 9.610/1998, art. 8, IV).
+- SAPL (the source): "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual" (CC BY-SA 4.0): source credited above.
+- The texts are not the official version: only the Diário Oficial do Município de Campinas is authoritative.
+
+Attribution: Fonte: Câmara Municipal de Campinas, SAPL, Câmara Municipal de Campinas, https://sapl.campinas.sp.leg.br/norma/1.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

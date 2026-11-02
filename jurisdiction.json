@@ -1,0 +1,9 @@
+{
+  "path": "br-sp-campinas",
+  "code": "BR-SP-CAMPINAS",
+  "name": "Campinas (city)",
+  "level": "municipality",
+  "parent": "br-sp",
+  "repo": "https://github.com/lexifina/brazil-campinas-city-law",
+  "build": "built: the law of Campinas from the Câmara Municipal's SAPL"
+}

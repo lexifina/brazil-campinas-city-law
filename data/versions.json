@@ -1,0 +1,5073 @@
+{
+ "country": "BR-SP-CAMPINAS",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Campinas",
+   "title": "Lei Orgânica do Município de Campinas",
+   "url": "https://sapl.campinas.sp.leg.br/norma/1",
+   "versions": [
+    {
+     "from": "2025-05-06",
+     "units": 293,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1990/1/lom_emenda_no_55_07052025.pdf",
+     "sha256": "b1221cd88113b3fe223a0d371e829773bc16c38a185d28817ac8ee4390aab3cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16983",
+   "short": "Lei 16983/2026",
+   "title": "Lei nº 16.983, de 21 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58984",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58984/lei_no_16.983-2026.pdf",
+     "sha256": "671d656f14e5536b2ac150a53c3d8460f505be0c9dd6799fd99cac4257ef3f5d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16982",
+   "short": "Lei 16982/2026",
+   "title": "Lei nº 16.982, de 21 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58983",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58983/lei_no_16.982-2026.pdf",
+     "sha256": "9a8f20649c6379d2f298c86bf599b27c49c54811f253d21546af0212107756a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16981",
+   "short": "Lei 16981/2026",
+   "title": "Lei nº 16.981, de 21 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58982",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58982/lei_no_16.981-2026.pdf",
+     "sha256": "5fcc1cd15d2ebeeb2e6986de45a1b48ce4e995957206fde9fc275094c244967b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16980",
+   "short": "Lei 16980/2026",
+   "title": "Lei nº 16.980, de 8 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58932",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58932/lei_no_16.980-2026.pdf",
+     "sha256": "0f479221c14954c86016c9c129df40f4e316a218432f6ed618f3d831988d997a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16979",
+   "short": "Lei 16979/2026",
+   "title": "Lei nº 16.979, de 8 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58931",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58931/lei_no_16.979-2026.pdf",
+     "sha256": "66b57a93386598681549fa9ec9314d26ee6626ff4c82693e48fe646a77cf2e10"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16978",
+   "short": "Lei 16978/2026",
+   "title": "Lei nº 16.978, de 8 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58930",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58930/lei_no_16.978-2026.pdf",
+     "sha256": "f9fa253857b54e2883656ee51cfea280f1d953f2aeec68b6c1143e8413c2763c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16977",
+   "short": "Lei 16977/2026",
+   "title": "Lei nº 16.977, de 8 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58929",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58929/lei_no_16.977-2026.pdf",
+     "sha256": "5d8ed2ada99b3080830f29826bdfd295f4fb996f0cfda26af290bd1d67174b72"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16976",
+   "short": "Lei 16976/2026",
+   "title": "Lei nº 16.976, de 8 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58928",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58928/lei_no_16.976-2026.pdf",
+     "sha256": "e90f7d89a1d8f351c91ec11c9c35a0894bdd5813b87cb87ea4c3636ac3af633e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16975",
+   "short": "Lei 16975/2026",
+   "title": "Lei nº 16.975, de 8 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58927",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58927/lei_no_16.975-2026.pdf",
+     "sha256": "c4a2a591221208abe623831e3b0bcdc541b615a4502de28f8d70755d8d5846b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16974",
+   "short": "Lei 16974/2026",
+   "title": "Lei nº 16.974, de 8 de outubro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58926",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58926/lei_no_16.974-2026.pdf",
+     "sha256": "94b340b2349de4d5b5a399f38d0aea68349414e7e0d8ca8cf9e3afaecbb86db9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16973",
+   "short": "Lei 16973/2026",
+   "title": "Lei nº 16.973, de 23 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58823",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58823/lei_no_16.973-2026.pdf",
+     "sha256": "b615ca866047ad442adfd086418984479ccf61f243f396e7eae04c214b56db83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16972",
+   "short": "Lei 16972/2026",
+   "title": "Lei nº 16.972, de 23 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58822",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58822/lei_no_16.972-2026.pdf",
+     "sha256": "f3a9175010dd54096117bdec1a7126c0a6b5ce61798bfc87efa12f775804feef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16971",
+   "short": "Lei 16971/2026",
+   "title": "Lei nº 16.971, de 23 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58821",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58821/lei_no_16.971-2026.pdf",
+     "sha256": "125777e2be7563344ac8af24e6bf800235576ef385a656c789ab6829fd414a17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16970",
+   "short": "Lei 16970/2026",
+   "title": "Lei nº 16.970, de 23 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58820",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58820/lei_no_16.970-2026.pdf",
+     "sha256": "0705038e76f35abf25eb68abdb900276f3c4517933f4662b9f5c03e6a2d11b4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16969",
+   "short": "Lei 16969/2026",
+   "title": "Lei nº 16.969, de 23 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58819",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58819/lei_no_16.969-2026.pdf",
+     "sha256": "ba0a0772a87cf21ba9a5331a298c61188deee5bd4ad388bbbe3bba397bed9d0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16968",
+   "short": "Lei 16968/2026",
+   "title": "Lei nº 16.968, de 23 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58818",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58818/lei_no_16.968-2026.pdf",
+     "sha256": "de8d97591502b9c3de5dd4da74113a08f2a9082675f0487f236132910177e320"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16966",
+   "short": "Lei 16966/2026",
+   "title": "Lei nº 16.966, de 15 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58777",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58777/lei_no_16.966-2026.pdf",
+     "sha256": "b3445cd497f2b086fe5ab9ef4194583581a3402a55e975ffce9a9cb25c48ed00"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16965",
+   "short": "Lei 16965/2026",
+   "title": "Lei nº 16.965, de 15 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58776",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58776/lei_no_16.965-2026.pdf",
+     "sha256": "1ed7da67c605a869f99663800a5ace22f19f927ef64743b31b3518eaefaa093b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16964",
+   "short": "Lei 16964/2026",
+   "title": "Lei nº 16.964, de 15 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58775",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58775/lei_no_16.964-2026.pdf",
+     "sha256": "77e47c9361f285a1d48620a88ac274177ab5a362308fe00f1844ef919914cc87"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16963",
+   "short": "Lei 16963/2026",
+   "title": "Lei nº 16.963, de 15 de setembro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58774",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58774/lei_no_16.963-2026.pdf",
+     "sha256": "1f8bb14af0957a49d44a1a4e93f5c46c8b0b4e3f5ef590e256d1b54074d24fba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16962",
+   "short": "Lei 16962/2026",
+   "title": "Lei nº 16.962, de 28 de agosto de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58713",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58713/lei_no_16.962-2026.pdf",
+     "sha256": "32115a3dba87143a279f28049f58be7cc199e3bdadc5fef0db7fa4e72e4a74a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16960",
+   "short": "Lei 16960/2026",
+   "title": "Lei nº 16.960, de 28 de agosto de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58711",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58711/lei_no_16.960-2026.pdf",
+     "sha256": "a1a6b25827f3cf9eb3f527922da0448342c3298aebb92cbe3bb51a12712d5768"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16959",
+   "short": "Lei 16959/2026",
+   "title": "Lei nº 16.959, de 28 de agosto de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58710",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58710/lei_no_16.959-2026.pdf",
+     "sha256": "4b357f1366198a956cc58f825118da183da2023de6ba60c16a46435a355ef097"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16958",
+   "short": "Lei 16958/2026",
+   "title": "Lei nº 16.958, de 28 de agosto de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58709",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58709/lei_no_16.958-2026.pdf",
+     "sha256": "3d716aaf0f27935d034ce17a99d2c52f15d1981006296c13a80e6481c6b05bd2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16957",
+   "short": "Lei 16957/2026",
+   "title": "Lei nº 16.957, de 28 de agosto de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58708",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58708/lei_no_16.957-2026.pdf",
+     "sha256": "f831bd967c6e6e9267c18456ac46270ee73b6012d2ec848545aa430c262c60f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16955",
+   "short": "Lei 16955/2026",
+   "title": "Lei nº 16.955, de 26 de agosto de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58695",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 9,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58695/lei_no_16.955-2026.pdf",
+     "sha256": "75e699b82f9263e2401afdd4a65ff3b0eefc40020b352c2918d4b51919cfc1d5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00610",
+   "short": "LC 610/2026",
+   "title": "Lei Complementar nº 610, de 26 de agosto de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58694",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 11,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58694/lei_complementar_no_610_-_2026.pdf",
+     "sha256": "19f2cedcb5465f8b367f9852380065a0d072eaab9bfcf43dd315e330ce521d10"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00609",
+   "short": "LC 609/2026",
+   "title": "Lei Complementar nº 609, de 26 de agosto de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58685",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 9,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58685/lei_complementar_no_609_-_2026.pdf",
+     "sha256": "cf107e427558ff34dce771126e38f872c32a97cbcacacea82e02530645f19d11"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00608",
+   "short": "LC 608/2026",
+   "title": "Lei Complementar nº 608, de 20 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58494",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58494/lei_complementar_no_608_-_2026.pdf",
+     "sha256": "43a3bc958359bb5e70bdb50f92a5dc5f3111e75c2cc9ab185020aeb0f407bfcd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16954",
+   "short": "Lei 16954/2026",
+   "title": "Lei nº 16.954, de 17 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58488",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 61,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58488/lei_no_16.954-2026.pdf",
+     "sha256": "845ea14cb578a96e3c9552a774c808288f35360a312b260e6fe23ecb993ac891"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16953",
+   "short": "Lei 16953/2026",
+   "title": "Lei nº 16.953, de 15 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58466",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58466/lei_no_16.953-2026.pdf",
+     "sha256": "b0ba455438ec0f2b7383f9e732d7bb4ddcd9b6f6d0e8d4ccac32f985c7eaf011"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16952",
+   "short": "Lei 16952/2026",
+   "title": "Lei nº 16.952, de 15 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58465",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58465/lei_no_16.952-2026.pdf",
+     "sha256": "1cd1dfbe4d5ea05dc6c7fa34a92e02f657f3aaa7d5d66d009acd2ca333c1c079"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16951",
+   "short": "Lei 16951/2026",
+   "title": "Lei nº 16.951, de 15 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58464",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58464/lei_no_16.951-2026.pdf",
+     "sha256": "06ab298c372771a1ce21985daafd50dd5b21a8a68b637b11fcb4a73ee78de8e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16950",
+   "short": "Lei 16950/2026",
+   "title": "Lei nº 16.950, de 14 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58462",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 116,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58462/lei_no_16.950-2026.pdf",
+     "sha256": "e734026e83c6e4ca0030a7f4aa3dd93c6a66ea106bb5af4e107743c6cad8242b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00605",
+   "short": "LC 605/2026",
+   "title": "Lei Complementar nº 605, de 14 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58457",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58457/lei_complementar_no_605_-_2026.pdf",
+     "sha256": "97db63ce015fe926ee3b568ddb649f0b33c0a36b0a4ba7ade7585d8de176881e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16948",
+   "short": "Lei 16948/2026",
+   "title": "Lei nº 16.948, de 7 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58414",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 9,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58414/lei_no_16.948-2026.pdf",
+     "sha256": "275f62d15da12ec0890765aa4f65f3107fe1bcd2d73da3430d07bfeebdbce405"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16947",
+   "short": "Lei 16947/2026",
+   "title": "Lei nº 16.947, de 7 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58413",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58413/lei_no_16.947-2026.pdf",
+     "sha256": "b601e7ff44071e2ef4564029ebb69432b823325377962f63bcec0ba02a81fdf6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16946",
+   "short": "Lei 16946/2026",
+   "title": "Lei nº 16.946, de 3 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58408",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58408/lei_no_16.946-2026.pdf",
+     "sha256": "fb0a4ef4ac9c2ad8bb7be3dc6f4a19950968c10ff0727889460f480156262112"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00604",
+   "short": "LC 604/2026",
+   "title": "Lei Complementar nº 604, de 3 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58407",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 8,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58407/lei_complementar_no_604_-_2026.pdf",
+     "sha256": "ff85fe7f3a50449dfae7625f0c7f14bd8046c349ae7cae7f0ff648e2162539e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16945",
+   "short": "Lei 16945/2026",
+   "title": "Lei nº 16.945, de 2 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58397",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58397/lei_no_16.945-2026.pdf",
+     "sha256": "81f45f3a30a63a8e51355424b94f2148287daed945d67e4156f97a31f321b012"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00603",
+   "short": "LC 603/2026",
+   "title": "Lei Complementar nº 603, de 2 de julho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58398",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58398/lei_complementar_no_603_-_2026.pdf",
+     "sha256": "ab4637f916015d69ff4b7a50fa412749114f322e6456788fde1050031e7a1a5f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16944",
+   "short": "Lei 16944/2026",
+   "title": "Lei nº 16.944, de 30 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58392",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 8,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58392/lei_no_16.944-2026.pdf",
+     "sha256": "b744ae6d669bfb1511f10ea07fafb7e763d4306c541353faf3eb518c03a5daf7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00602",
+   "short": "LC 602/2026",
+   "title": "Lei Complementar nº 602, de 25 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58372",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58372/lei_complementar_no_602_-_2026.pdf",
+     "sha256": "1eb4882ff74d060f362f13c2d6249779aecd64cb129c68920b462534bd302e21"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00601",
+   "short": "LC 601/2026",
+   "title": "Lei Complementar nº 601, de 25 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58371",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58371/lei_complementar_no_601_-_2026.pdf",
+     "sha256": "625e7ea0cd2b8c5b5f9040b6e1e9d5e8212027e86cd3237403130b94d83af819"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00600",
+   "short": "LC 600/2026",
+   "title": "Lei Complementar nº 600, de 25 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58370",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58370/lei_complementar_no_600_-_2026.pdf",
+     "sha256": "8c734989352b0460c0ed6d572e9d214851b7f29f83998fc9f4fa58849cad242f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00599",
+   "short": "LC 599/2026",
+   "title": "Lei Complementar nº 599, de 25 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58369",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58369/lei_complementar_no_599_-_2026.pdf",
+     "sha256": "898da80dc0f822e856ef1a8df3362b1a23376efe879e7cc832ab67e98872de6f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00598",
+   "short": "LC 598/2026",
+   "title": "Lei Complementar nº 598, de 25 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58368",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58368/lei_complementar_no_598_-_2026.pdf",
+     "sha256": "2b76524d38836fdb7e33e7fa59b799ad2232a3be76ca30d2ce2f97053fceebc0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00597",
+   "short": "LC 597/2026",
+   "title": "Lei Complementar nº 597, de 25 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58366",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58366/lei_complementar_no_597_-_2026.pdf",
+     "sha256": "81ac2a096226ca610f4012aeb13939f41a709907fba5e97628c90fd8cd67fae0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00596",
+   "short": "LC 596/2026",
+   "title": "Lei Complementar nº 596, de 25 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58367",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58367/lei_complementar_no_596_-_2026.pdf",
+     "sha256": "2ba1ff2784cb8867cc47bdee6b7e06e756b9dc4fbbffb62aaaa5a378c8ba0bec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16943",
+   "short": "Lei 16943/2026",
+   "title": "Lei nº 16.943, de 22 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58357",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58357/lei_no_16.943-2026.pdf",
+     "sha256": "b581a1c36e11f537803465fe96eb3277aa111c03f704506b5b6e01520b515860"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16942",
+   "short": "Lei 16942/2026",
+   "title": "Lei nº 16.942, de 22 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58356",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58356/lei_no_16.942-2026.pdf",
+     "sha256": "2d7f9df9170ef8ba40f490587a0d094a708444212aea8792fe7c1b43f0f653dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16941",
+   "short": "Lei 16941/2026",
+   "title": "Lei nº 16.941, de 22 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58355",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58355/lei_no_16.941-2026.pdf",
+     "sha256": "9d4a7945a64318e936fd120678a9498b8568d9cb639420585e0e59acb3d3bc43"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16940",
+   "short": "Lei 16940/2026",
+   "title": "Lei nº 16.940, de 22 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58354",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58354/lei_no_16.940-2026.pdf",
+     "sha256": "8967796e706f188df2214fcdc4ef9690f0efc5f5f34069e447f02f623fffbba2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16939",
+   "short": "Lei 16939/2026",
+   "title": "Lei nº 16.939, de 22 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58353",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58353/lei_no_16.939-2026.pdf",
+     "sha256": "5518ab0a96852ea31fd0cb2035807aafa8336cb5145afa455affe00665d3631a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16938",
+   "short": "Lei 16938/2026",
+   "title": "Lei nº 16.938, de 22 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58352",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58352/lei_no_16.938-2026.pdf",
+     "sha256": "d80a03d154d99fd6658eefb13cd4cac346f44e5719ab55f5b5891c90a91f758c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16937",
+   "short": "Lei 16937/2026",
+   "title": "Lei nº 16.937, de 22 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58351",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58351/lei_no_16.937-2026.pdf",
+     "sha256": "8441159cf6a2bf8a82e36ce0cd79a34a0e0015da48f9c07c8c0c5a54c9837c92"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16936",
+   "short": "Lei 16936/2026",
+   "title": "Lei nº 16.936, de 18 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58340",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58340/lei_no_16.936-2026.pdf",
+     "sha256": "7772aba0131a8961296427cccd907acc3a1b4d1dbc30eb81b8bf0fc83e92fa5a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16935",
+   "short": "Lei 16935/2026",
+   "title": "Lei nº 16.935, de 18 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58339",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58339/lei_no_16.935-2026.pdf",
+     "sha256": "60ce871e234a061f47236c8db57f2d3be013cd963b6689081e88aed39ee74e67"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00595",
+   "short": "LC 595/2026",
+   "title": "Lei Complementar nº 595, de 18 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58338",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58338/lei_complementar_no_595_-_2026.pdf",
+     "sha256": "26bbfca4ff5d4c3215d4bd4ad0130e355a8e6039c536af12a4f105afd26551d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16934",
+   "short": "Lei 16934/2026",
+   "title": "Lei nº 16.934, de 15 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58326",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58326/lei_no_16.934-2026.pdf",
+     "sha256": "03afa0a465540e3ef9d2ffa6e31085626d4b731ff1f9d73972f63a4b3a45b214"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00594",
+   "short": "LC 594/2026",
+   "title": "Lei Complementar nº 594, de 12 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58323",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 9,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58323/lei_complementar_no_594_-_2026.pdf",
+     "sha256": "e2bfe6b105386fccbc4031ccb37db7263d0addf139b7ec3542c84a27c6e0db15"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16933",
+   "short": "Lei 16933/2026",
+   "title": "Lei nº 16.933, de 11 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58315",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58315/lei_no_16.933-2026.pdf",
+     "sha256": "353820d000f041d707988eac59398341ac49666d76e3b9e0a619f6d0ed7dce0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16932",
+   "short": "Lei 16932/2026",
+   "title": "Lei nº 16.932, de 9 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58305",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58305/lei_no_16.932-2026.pdf",
+     "sha256": "5378b30f320981c711cbf6626b1123a00e5f93920730c48779bb18d8354b5e67"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00593",
+   "short": "LC 593/2026",
+   "title": "Lei Complementar nº 593, de 9 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58304",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58304/lei_complementar_no_593_-_2026.pdf",
+     "sha256": "5514fbf22edeee0ce12d607402a9707231f4e94aef2f2ad25054b51e095d68b7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00592",
+   "short": "LC 592/2026",
+   "title": "Lei Complementar nº 592, de 9 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58303",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58303/lei_complementar_no_592_-_2026.pdf",
+     "sha256": "e81c0636cb262807fb75c8805a4cbd6f81aea3a48d94ce78d82cb32bac1dad0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16931",
+   "short": "Lei 16931/2026",
+   "title": "Lei nº 16.931, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58268",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58268/lei_no_16.931-2026.pdf",
+     "sha256": "ae3fe3d8eeedda1fe701194fea90fba6ad268a866de4142434bc9ff23a9ceffe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16930",
+   "short": "Lei 16930/2026",
+   "title": "Lei nº 16.930, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58267",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58267/lei_no_16.930-2026.pdf",
+     "sha256": "5c14d1023e0dcbe7559fad7c7b1ec7e9f4fa9afd90681c02f430645a1e923ab9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16929",
+   "short": "Lei 16929/2026",
+   "title": "Lei nº 16.929, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58266",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58266/lei_no_16.929-2026.pdf",
+     "sha256": "de5c51b487d3f60f1f251de30540201b108c26835a5aae36d1f0f0487d02191c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16928",
+   "short": "Lei 16928/2026",
+   "title": "Lei nº 16.928, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58265",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58265/lei_no_16.928-2026.pdf",
+     "sha256": "d72b2f315d9a5f7ef0cf885ddb5980a61974515d057a16db9097f227ee5cb146"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16927",
+   "short": "Lei 16927/2026",
+   "title": "Lei nº 16.927, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58264",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58264/lei_no_16.927-2026.pdf",
+     "sha256": "2a922fe5892e67bdb84a4761f4ad615ce94552b3817abaea12582756a79516e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16926",
+   "short": "Lei 16926/2026",
+   "title": "Lei nº 16.926, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58263",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58263/lei_no_16.926-2026.pdf",
+     "sha256": "68d9d88a4ac8d4d571c9610332f248f99a3cb7357d9f39f426d14ef50616f037"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16925",
+   "short": "Lei 16925/2026",
+   "title": "Lei nº 16.925, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58262",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58262/lei_no_16.925-2026.pdf",
+     "sha256": "af24e19b6aa78988af9234e1e160c01884af963578c4ca010986fc372e2aa6c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16924",
+   "short": "Lei 16924/2026",
+   "title": "Lei nº 16.924, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58261",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58261/lei_no_16.924-2026.pdf",
+     "sha256": "ddbf3a40853e6f7e1cd338fe6382e966aeb9f7321770bf524649e0f74507de27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16923",
+   "short": "Lei 16923/2026",
+   "title": "Lei nº 16.923, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58260",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58260/lei_no_16.923-2026.pdf",
+     "sha256": "110c44f04bfd467a71f2822ae77f6aea9cd3eb4da7758f5fc57b624aa355c0d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16922",
+   "short": "Lei 16922/2026",
+   "title": "Lei nº 16.922, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58259",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58259/lei_no_16.922-2026.pdf",
+     "sha256": "e18800500ff3302c4b185a0c570e270dbc3c6445397cfc39940adabffddd819c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16921",
+   "short": "Lei 16921/2026",
+   "title": "Lei nº 16.921, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58258",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58258/lei_no_16.921-2026.pdf",
+     "sha256": "871ee1ae67fdf2982a200bce53eade03f8c803d7a053413a1849491db17dfde3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00591",
+   "short": "LC 591/2026",
+   "title": "Lei Complementar nº 591, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58257",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58257/lei_complementar_no_591_-_2026.pdf",
+     "sha256": "94b0092ed04d04f00deb9c73e208f24441a1d41d3b152bc0a6b5191e77afe047"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00590",
+   "short": "LC 590/2026",
+   "title": "Lei Complementar nº 590, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58256",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58256/lei_complementar_no_590_-_2026.pdf",
+     "sha256": "9aee0b0ed3a8d387e44df14ed70d7da6d76b5889f909e418e81174e5f06e1ce8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00589",
+   "short": "LC 589/2026",
+   "title": "Lei Complementar nº 589, de 1 de junho de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58255",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58255/lei_complementar_no_589_-_2026.pdf",
+     "sha256": "bb6bc1bd49b4acc3ce949140b33554922febaa05038d13cf729fc26c94738733"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16920",
+   "short": "Lei 16920/2026",
+   "title": "Lei nº 16.920, de 27 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58231",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58231/lei_no_16.920-2026.pdf",
+     "sha256": "ef9854de6e7fe2dadc3b498cbb7835562aaac8ac75fee051ccd2a4d9e7307436"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16919",
+   "short": "Lei 16919/2026",
+   "title": "Lei nº 16.919, de 27 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58230",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58230/lei_no_16.919-2026.pdf",
+     "sha256": "5440761c71dfa1fd52064087e134baa04dcf6088d78fd958be1c7334ff885b1c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00588",
+   "short": "LC 588/2026",
+   "title": "Lei Complementar nº 588, de 27 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58229",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58229/lei_complementar_no_588_-_2026_republicacao.pdf",
+     "sha256": "c2097f0d21dd70e91a9287aee30069eaeec088ca2082f3cf2e0f5a61f982d9f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16918",
+   "short": "Lei 16918/2026",
+   "title": "Lei nº 16.918, de 8 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58139",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58139/lei_no_16.918-2026.pdf",
+     "sha256": "7dae00452ca2336c5a00996868861bec8413cc2d7e0a578d79610cab7527f6e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16917",
+   "short": "Lei 16917/2026",
+   "title": "Lei nº 16.917, de 8 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58138",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58138/lei_no_16.917-2026.pdf",
+     "sha256": "8aea8db8d49960cf32da2c3b41a44bc5cf3f619c8bd175c2e2bcf9ee51678e8f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16916",
+   "short": "Lei 16916/2026",
+   "title": "Lei nº 16.916, de 8 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58137",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58137/lei_no_16.916-2026.pdf",
+     "sha256": "4ef64cddc83c9e7b41364e4e6428130962391fe24e51b7825751c8995bb87600"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16915",
+   "short": "Lei 16915/2026",
+   "title": "Lei nº 16.915, de 8 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58136",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58136/lei_no_16.915-2026.pdf",
+     "sha256": "cded4b73730ccb167bb61d54510def888782a4b9f9e32ec396729e75f2591d46"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16914",
+   "short": "Lei 16914/2026",
+   "title": "Lei nº 16.914, de 7 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58126",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58126/lei_no_16.914-2026.pdf",
+     "sha256": "7d1916d9a928eefaa99e505ad3e995e2ac85c265d3d226617e2ee7838db11e93"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16913",
+   "short": "Lei 16913/2026",
+   "title": "Lei nº 16.913, de 7 de maio de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58125",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58125/lei_no_16.913-2026.pdf",
+     "sha256": "187d9d8f3c150e1fc8542619a62ef908618ba4f68561900c94b462bbf431b620"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16912",
+   "short": "Lei 16912/2026",
+   "title": "Lei nº 16.912, de 30 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58097",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58097/lei_no_16.912-2026.pdf",
+     "sha256": "8ca118340952e1d420774ecb2ea48c66e7d3d6e6ca663bda1fda1f9bb3b61812"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16911",
+   "short": "Lei 16911/2026",
+   "title": "Lei nº 16.911, de 30 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58096",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58096/lei_no_16.911-2026.pdf",
+     "sha256": "3c25b6175ccccb9ee5608bef04916dd815b60e2daef0d71ee711f342fea48ba9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00587",
+   "short": "LC 587/2026",
+   "title": "Lei Complementar nº 587, de 30 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58095",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 29,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58095/lei_complementar_no_587_-_2026.pdf",
+     "sha256": "c7f6198773affb1943909a3f372945a5dcbc20e4f7d3d4d9d9d22c85da95c151"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00586",
+   "short": "LC 586/2026",
+   "title": "Lei Complementar nº 586, de 29 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58084",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58084/lei_complementar_no_586_-_2026.pdf",
+     "sha256": "d06e961c22fcfb48b4c6ccc61eae9793d7a3e4744116c77eeec322dcd317c849"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16910",
+   "short": "Lei 16910/2026",
+   "title": "Lei nº 16.910, de 23 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58063",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58063/lei_no_16.910-2026.pdf",
+     "sha256": "86d2bfd6cbb8cd7468f01b82bf3a9d2905710862971424200523b4df965c69a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16909",
+   "short": "Lei 16909/2026",
+   "title": "Lei nº 16.909, de 23 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58062",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58062/lei_no_16.909-2026.pdf",
+     "sha256": "a942cb7452ef84481cc61deaf3948db5bdbc88878309d1506be52362ca537d01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16908",
+   "short": "Lei 16908/2026",
+   "title": "Lei nº 16.908, de 23 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58061",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58061/lei_no_16.908-2026.pdf",
+     "sha256": "e5438d43f7a4e5084d5f38ea5fba24c85a203969bce896fcbd0f43549cff5af2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16907",
+   "short": "Lei 16907/2026",
+   "title": "Lei nº 16.907, de 23 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58060",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58060/lei_no_16.907-2026.pdf",
+     "sha256": "ca4ae97b0fc2ac38323300362149ffa7ce5a13e6fae8257e886dacccf0549f12"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16906",
+   "short": "Lei 16906/2026",
+   "title": "Lei nº 16.906, de 23 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58059",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58059/lei_no_16.906-2026.pdf",
+     "sha256": "ae8a7b75d155fb42685fd84a47e4aaedbbeeb14bcecc75a74817547c9f66d867"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00585",
+   "short": "LC 585/2026",
+   "title": "Lei Complementar nº 585, de 23 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58058",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58058/lei_complementar_no_585_-_2026.pdf",
+     "sha256": "df49e039d61d31ef694b5409c239a8ea758de22b6af4738119b9b81716020e0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16905",
+   "short": "Lei 16905/2026",
+   "title": "Lei nº 16.905, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58045",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58045/lei_no_16.905-2026.pdf",
+     "sha256": "2885e07d56ba8df502c2a01f888009ae83fcea5e50e93ad96a269708f17f8a97"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16904",
+   "short": "Lei 16904/2026",
+   "title": "Lei nº 16.904, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58044",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58044/lei_no_16.904-2026.pdf",
+     "sha256": "488c2669d96cc4f125621759ce19579e21957949dd8926891d339bafe70f848f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16903",
+   "short": "Lei 16903/2026",
+   "title": "Lei nº 16.903, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58042",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58042/lei_no_16.903-2026.pdf",
+     "sha256": "bf1e7375e9770fbd52d31486a55a8a3e693beda8c87a9987a949f537ac81deb9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16902",
+   "short": "Lei 16902/2026",
+   "title": "Lei nº 16.902, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58041",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58041/lei_no_16.902-2026.pdf",
+     "sha256": "24d1f10c10bc2f0bc53bdddc655755cb29785647898db84c78a137f03f2f5a59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16901",
+   "short": "Lei 16901/2026",
+   "title": "Lei nº 16.901, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58040",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58040/lei_no_16.901-2026.pdf",
+     "sha256": "497227492e6b89517cbdba3bb1f910ad791dc265dfe0acd989624b54dbc6a902"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16900",
+   "short": "Lei 16900/2026",
+   "title": "Lei nº 16.900, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58039",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58039/lei_no_16.900-2026.pdf",
+     "sha256": "21fe7f5dc46e0fc4bfc382ce5bfdd8c47c7a1a95fbb1b380fe803e71454652ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16899",
+   "short": "Lei 16899/2026",
+   "title": "Lei nº 16.899, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58037",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58037/lei_no_16.899-2026.pdf",
+     "sha256": "9f81d7912ee931a66db9bbe93faad7017c941a3e2e7a614abc136623e3fd4b28"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00584",
+   "short": "LC 584/2026",
+   "title": "Lei Complementar nº 584, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58036",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58036/lei_complementar_no_584_-_2026.pdf",
+     "sha256": "572518f51bfa4c63dad49c4e99d7e3cae29c1d5f3ec520c6315010fc6fb56f05"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00583",
+   "short": "LC 583/2026",
+   "title": "Lei Complementar nº 583, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58028",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58028/lei_complementar_no_583_-_2026.pdf",
+     "sha256": "58b3a216c5ed2c6e076f1e362e3c9192c3d7591c63531548a1b28a36959a8683"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00582",
+   "short": "LC 582/2026",
+   "title": "Lei Complementar nº 582, de 16 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58027",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58027/lei_complementar_no_582_-_2026.pdf",
+     "sha256": "98b1d0c287366ae55f4735d98947fbc9c36b9ef31a495277c31b3a9c1c78d64e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16898",
+   "short": "Lei 16898/2026",
+   "title": "Lei nº 16.898, de 13 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58018",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58018/lei_no_16.898-2026.pdf",
+     "sha256": "cf76f7ae526ca916d9e6f1d2f8da5e675646cdb677d041f8b014e47b3e3a82bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16897",
+   "short": "Lei 16897/2026",
+   "title": "Lei nº 16.897, de 13 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58017",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58017/lei_no_16.897-2026.pdf",
+     "sha256": "0b31ee3d6c704a6be3af1fb0eba2f672b7bc99251131f9b6efb1750149c81615"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16896",
+   "short": "Lei 16896/2026",
+   "title": "Lei nº 16.896, de 13 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/58016",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58016/lei_no_16.896-2026.pdf",
+     "sha256": "0b1cd1ccc8f2cb4dcb610251a3b7df84fe0394ae0ccbc55281a241727ae249a4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00580",
+   "short": "LC 580/2026",
+   "title": "Lei Complementar nº 580, de 7 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57974",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 33,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57974/lei_complementar_no_580_-_2026.pdf",
+     "sha256": "1e91d75ac806da8a2733de3bee004fa559c7745a5b3cc52b7e41868cebf25b81"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16895",
+   "short": "Lei 16895/2026",
+   "title": "Lei nº 16.895, de 1 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57957",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 2,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57957/lei_no_16.895-2026.pdf",
+     "sha256": "758f04d520d2c03cea9f8f324ed0928902c70ed1636f808c16e4beb77f4d7bab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16894",
+   "short": "Lei 16894/2026",
+   "title": "Lei nº 16.894, de 1 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57956",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57956/lei_no_16.894-2026.pdf",
+     "sha256": "5d0372d2c75c30953c7e1740a6d912ed2d39642a848640451eac902a46673dd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16893",
+   "short": "Lei 16893/2026",
+   "title": "Lei nº 16.893, de 1 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57955",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57955/lei_no_16.893-2026.pdf",
+     "sha256": "7b37aea2d675672a8190499e574065788d17fe792245f17a7951b0179839efe2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16892",
+   "short": "Lei 16892/2026",
+   "title": "Lei nº 16.892, de 1 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57954",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57954/lei_no_16.892-2026.pdf",
+     "sha256": "f0227da30b87911834480758aeb533d22698fe3fc1849729e9263f135d94953e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16891",
+   "short": "Lei 16891/2026",
+   "title": "Lei nº 16.891, de 1 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57953",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57953/lei_no_16.891-2026.pdf",
+     "sha256": "b4bad89dbbac72fb302511604ac397ab8d0990f79d384750db2b7531ff57face"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00579",
+   "short": "LC 579/2026",
+   "title": "Lei Complementar nº 579, de 1 de abril de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57952",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57952/lei_complementar_no_579_-_2026.pdf",
+     "sha256": "ff42bed40199d002caee1e4da682985faf58906d9926638cbda405873641295b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16890",
+   "short": "Lei 16890/2026",
+   "title": "Lei nº 16.890, de 23 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57896",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57896/lei_no_16.890-2026.pdf",
+     "sha256": "bdc2352c777329770b007532b425c0788446a540c2afa5b98954e3ef384dfd31"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16889",
+   "short": "Lei 16889/2026",
+   "title": "Lei nº 16.889, de 23 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57895",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57895/lei_no_16.889-2026.pdf",
+     "sha256": "c9dd757f0b7f9c07373b8744bdaaae3e72177c949781f2a1e8970db8117b59d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16888",
+   "short": "Lei 16888/2026",
+   "title": "Lei nº 16.888, de 23 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57894",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57894/lei_no_16.888-2026.pdf",
+     "sha256": "34afbed08e194f77f7a2b4ccb550abff17ba4b2ac6fc734e79a3bc3597cce914"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16887",
+   "short": "Lei 16887/2026",
+   "title": "Lei nº 16.887, de 23 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57893",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57893/lei_no_16.887-2026.pdf",
+     "sha256": "21297d2d1fe328bea63c5bff25d7700522b7841ffc6b5b78890daa7db6dc1942"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16886",
+   "short": "Lei 16886/2026",
+   "title": "Lei nº 16.886, de 23 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57892",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57892/lei_no_16.886-2026.pdf",
+     "sha256": "bf5eff8dcd976ca27c712839a43fe3ddc392ac5d2c3792fcccd69bd04f5b10de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16885",
+   "short": "Lei 16885/2026",
+   "title": "Lei nº 16.885, de 23 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57891",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57891/lei_no_16.885-2026.pdf",
+     "sha256": "278d43a9700cc6b1d2907b72dd7867c8dd0bd6d7cf6618c88237579e1980e045"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16884",
+   "short": "Lei 16884/2026",
+   "title": "Lei nº 16.884, de 23 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57890",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57890/lei_no_16.884-2026.pdf",
+     "sha256": "cb2b66c2793dd3847852e628821c97592b433dfbdf4ae5714df8f7155df7ecbd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16882",
+   "short": "Lei 16882/2026",
+   "title": "Lei nº 16.882, de 13 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57848",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57848/lei_no_16.882-2026.pdf",
+     "sha256": "9ad2570491a1ec5d98d86411a272565eb38610f75056c2ebed1637a4c47eee24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16881",
+   "short": "Lei 16881/2026",
+   "title": "Lei nº 16.881, de 13 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57847",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57847/lei_no_16.881-2026.pdf",
+     "sha256": "1035b929363cf5db428651b816285f8c480954cfa7a33e9b57e96bd6490b42b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16880",
+   "short": "Lei 16880/2026",
+   "title": "Lei nº 16.880, de 13 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57846",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57846/lei_no_16.880-2026.pdf",
+     "sha256": "67cd30c450beb3770bb2601a98a08ef27052bfc81dd4523cb3e74400294f3d74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16879",
+   "short": "Lei 16879/2026",
+   "title": "Lei nº 16.879, de 13 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57845",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57845/lei_no_16.879-2026.pdf",
+     "sha256": "7f7ecbfbfae4b84d855530d0a904905e37765ed659d93ea05123f1a8740e3475"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16878",
+   "short": "Lei 16878/2026",
+   "title": "Lei nº 16.878, de 13 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57844",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 33,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57844/lei_no_16.878-2026.pdf",
+     "sha256": "bc6a7369de700a432db01a17b3fb3a383aca37ac6323afe47a7c0c591342a571"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16877",
+   "short": "Lei 16877/2026",
+   "title": "Lei nº 16.877, de 13 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57843",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 11,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57843/lei_no_16.877-2026.pdf",
+     "sha256": "6f8bcf1728f29626ced5386e6c6e951f2db5f325e74828def560288d87f9778a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16876",
+   "short": "Lei 16876/2026",
+   "title": "Lei nº 16.876, de 4 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57801",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57801/lei_no_16.876-2026.pdf",
+     "sha256": "711eb446b7c64a8b8f1bfac752aa7db21a1e00e8b5ac56232e5afbd66fe6d890"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16875",
+   "short": "Lei 16875/2026",
+   "title": "Lei nº 16.875, de 4 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57800",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57800/lei_no_16.875-2026.pdf",
+     "sha256": "4a446d5684ffca6464804755d1db22240f8e425135e54451d3fda0a43a252984"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16874",
+   "short": "Lei 16874/2026",
+   "title": "Lei nº 16.874, de 4 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57799",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57799/lei_no_16.874-2026.pdf",
+     "sha256": "57a03d55f0bbd11bc3032a7a6ad3f36764bb5db7a9bfde9b2815a6016f3d5982"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16873",
+   "short": "Lei 16873/2026",
+   "title": "Lei nº 16.873, de 4 de março de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57798",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57798/lei_no_16.873-2026.pdf",
+     "sha256": "7f24c4cd39592c944f0d9b8c11f9b5c50201231389b71a5db9718d1f20de3d0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16872",
+   "short": "Lei 16872/2026",
+   "title": "Lei nº 16.872, de 27 de fevereiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57785",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57785/lei_no_16.872-2026.pdf",
+     "sha256": "4129b623f8d174467f0091096912f8523bf18db99b465cae95e25ff9919ea5d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16871",
+   "short": "Lei 16871/2026",
+   "title": "Lei nº 16.871, de 27 de fevereiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57784",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57784/lei_no_16.871-2026.pdf",
+     "sha256": "155c3044efd3d84359ab6a3e269bdde4701b49308ce7ef64f7ba19ea9cc35c30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16870",
+   "short": "Lei 16870/2026",
+   "title": "Lei nº 16.870, de 27 de fevereiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57783",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57783/lei_no_16.870-2026.pdf",
+     "sha256": "7436e51f5dd76369533aa9f2731ca9095d05688ebd27415f4b93258d7baabd59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16869",
+   "short": "Lei 16869/2026",
+   "title": "Lei nº 16.869, de 27 de fevereiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57782",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57782/lei_no_16.869-2026.pdf",
+     "sha256": "5f1583b7dfa6341570f325bd86f5686bda908a658e2c382474264b69337a0634"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00577",
+   "short": "LC 577/2026",
+   "title": "Lei Complementar nº 577, de 27 de fevereiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57781",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57781/lei_complementar_no_577_-_2026.pdf",
+     "sha256": "2c650c2fcb7ae58bcdb00ff3c96fbdf6eaf16f26670b86529d799bafe5095cb3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00575",
+   "short": "LC 575/2026",
+   "title": "Lei Complementar nº 575, de 26 de fevereiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57775",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 16,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57775/lei_complementar_no_575_-_2026.pdf",
+     "sha256": "928558e41985ea17baedb1b278d8e1bc365e6ee28d6d395ddadf050bd5e81a14"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16868",
+   "short": "Lei 16868/2026",
+   "title": "Lei nº 16.868, de 13 de janeiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57624",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 9,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57624/lei_no_16.868-2026.pdf",
+     "sha256": "891624103f5042d5a0af13ec77b89e3d7ed76d1aa0d8e9769cecf55fd05304e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16867",
+   "short": "Lei 16867/2026",
+   "title": "Lei nº 16.867, de 12 de janeiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57622",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57622/lei_no_16.867-2026.pdf",
+     "sha256": "dbad0bc1492fe6790562f703849d30b4730d9d60fdd338cf2bc7be78aca985ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16866",
+   "short": "Lei 16866/2026",
+   "title": "Lei nº 16.866, de 12 de janeiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57620",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 10,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57620/lei_no_16.866-2026.pdf",
+     "sha256": "dea99ef75d00bec77daac3c54e307cd357909cea675851b4c4c880cdbaff7679"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16865",
+   "short": "Lei 16865/2026",
+   "title": "Lei nº 16.865, de 12 de janeiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57619",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57619/lei_no_16.865-2026.pdf",
+     "sha256": "29bd37bc60d525f3d6adbaf47ee15f6a75d60b9946279d85ed6cf840d67df709"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16863",
+   "short": "Lei 16863/2026",
+   "title": "Lei nº 16.863, de 6 de janeiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57601",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57601/lei_no_16.863-2026.pdf",
+     "sha256": "874452daf74771c81d07f3b8597972a8c4ff1b8d594da1db10856eb7e252979c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16862",
+   "short": "Lei 16862/2026",
+   "title": "Lei nº 16.862, de 6 de janeiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57600",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57600/lei_no_16.862-2026.pdf",
+     "sha256": "a38c36d903f09e6be85002da9426f314a0b3a2f85a3264404fc13e5c6ac4e2c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-16861",
+   "short": "Lei 16861/2026",
+   "title": "Lei nº 16.861, de 6 de janeiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57599",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57599/lei_no_16.861-2026.pdf",
+     "sha256": "d6c5b9f6e7c5424138c7e17740969f22532ea87c25456a66ceaa9697b962d235"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00574",
+   "short": "LC 574/2026",
+   "title": "Lei Complementar nº 574, de 6 de janeiro de 2026",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57598",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/57598/lei_complementar_no_574_-_2026.pdf",
+     "sha256": "71a4502f772c9741c2d66d8f581d8b84ccfe1010bd7baa317669d358dfd1f004"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00570",
+   "short": "LC 570/2025",
+   "title": "Lei Complementar nº 570, de 30 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57604",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 14,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57604/lei_complementar_no_570_-_2025.pdf",
+     "sha256": "000dca0e62b470d9103064e9b7c51cd4371ee953f5bf865d1f67ec02ea843867"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16860",
+   "short": "Lei 16860/2025",
+   "title": "Lei nº 16.860, de 29 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57603",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 9,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57603/lei_no_16.860-2025.pdf",
+     "sha256": "9691ec150a32281b77de9e535a3778780e353757c8828e9585827b1abb7a8ee8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16859",
+   "short": "Lei 16859/2025",
+   "title": "Lei nº 16.859, de 29 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57602",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 16,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57602/lei_no_16.859-2025_republicacao.pdf",
+     "sha256": "f62506d2ed535fab5d5c4858f8db8d3b890c00f60418b7e2cff99415f1d1ef99"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16858",
+   "short": "Lei 16858/2025",
+   "title": "Lei nº 16.858, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57586",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57586/lei_no_16.858-2025.pdf",
+     "sha256": "2b269655714069321c39c26326c264dcbc89e9236de3f5f8ad2da430c3f701b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16857",
+   "short": "Lei 16857/2025",
+   "title": "Lei nº 16.857, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57585",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57585/lei_no_16.857-2025.pdf",
+     "sha256": "540da77ebeef8eac28afa9ca218b07f24d748cf564f55b0a2573a358bc6a5b3b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16856",
+   "short": "Lei 16856/2025",
+   "title": "Lei nº 16.856, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57584",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57584/lei_no_16.856-2025.pdf",
+     "sha256": "8cff3822b1d2ed1a0ca533f8db1809e5b1d9c1ae73f6ca6c0da8d39b4b9384d0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00568",
+   "short": "LC 568/2025",
+   "title": "Lei Complementar nº 568, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57582",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 15,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57582/lei_complementar_no_568_-_2025.pdf",
+     "sha256": "4e05c97624c245e9b7e3b897ddb6ba0581a33b1c8f9cf0439d88a56f03d417c4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00566",
+   "short": "LC 566/2025",
+   "title": "Lei Complementar nº 566, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57563",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57563/lei_complementar_no_566_-_2025.pdf",
+     "sha256": "b1b0e1b37f90456dd4b0fd2b2fb7bc7ba554e8072d0f7f01b4c2af2cc4e5f040"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00565",
+   "short": "LC 565/2025",
+   "title": "Lei Complementar nº 565, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57562",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57562/lei_complementar_no_565_-_2025.pdf",
+     "sha256": "bb3738f2d8a0cf76c15547ea1172a0004469c5053314ace84fcbd27e80f4f302"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00564",
+   "short": "LC 564/2025",
+   "title": "Lei Complementar nº 564, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57561",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57561/lei_complementar_no_564_-_2025.pdf",
+     "sha256": "2fa0c338475457e6bcd660ab0e31cd383d87b6692470753aaadace3ffdf0e093"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00563",
+   "short": "LC 563/2025",
+   "title": "Lei Complementar nº 563, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57560",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57560/lei_complementar_no_563_-_2025.pdf",
+     "sha256": "61d25c398781c7d268e0e8731564259a2b33983d640400e2910c49cacaf83be7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00562",
+   "short": "LC 562/2025",
+   "title": "Lei Complementar nº 562, de 19 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57559",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57559/lei_complementar_no_562_-_2025.pdf",
+     "sha256": "64eaf1e4f25edce02b839b33a97b626baa2deb160039510b7195d22456e9a8ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16855",
+   "short": "Lei 16855/2025",
+   "title": "Lei nº 16.855, de 16 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57539",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57539/lei_no_16.855-2025.pdf",
+     "sha256": "a1908afdf9d03f625dc056cae893051f76fd9caea42996f56386535c27e579c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16854",
+   "short": "Lei 16854/2025",
+   "title": "Lei nº 16.854, de 16 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57538",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57538/lei_no_16.854-2025.pdf",
+     "sha256": "d0c3b84433c43e0a3f989774a4d1bc12e95bf452bcaf7a160df0b4ef46185baf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16853",
+   "short": "Lei 16853/2025",
+   "title": "Lei nº 16.853, de 16 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57537",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57537/lei_no_16.853-2025.pdf",
+     "sha256": "147edeebc25c40d37c5e4f66eec1578c8ceb54c0e61e40329316793f11df561f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16852",
+   "short": "Lei 16852/2025",
+   "title": "Lei nº 16.852, de 16 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57536",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57536/lei_no_16.852-2025.pdf",
+     "sha256": "88696b433383c21b366184a258e69f09d8f70c993114edc9d8f60f0e473cac5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16849",
+   "short": "Lei 16849/2025",
+   "title": "Lei nº 16.849, de 16 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57533",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57533/lei_no_16.849-2025.pdf",
+     "sha256": "9637ef731799a236fef83a3868ccd305fec4943f2c14ae33a19823d9adf74ad7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16848",
+   "short": "Lei 16848/2025",
+   "title": "Lei nº 16.848, de 15 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57527",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57527/lei_no_16.848-2025.pdf",
+     "sha256": "3012da8268a55f48b9e72c878c4beaf4237fcdbfcf02581194f1adb67efe31a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16847",
+   "short": "Lei 16847/2025",
+   "title": "Lei nº 16.847, de 15 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57526",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57526/lei_no_16.847-2025.pdf",
+     "sha256": "335fce09c2ed54a05becf807d748811c034286da6a018b5fa4d6d72583a1cb8e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16846",
+   "short": "Lei 16846/2025",
+   "title": "Lei nº 16.846, de 15 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57525",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57525/lei_no_16.846-2025.pdf",
+     "sha256": "1a330614ac0ec5a7e1678618825497396138dcfe397eed28ea80dacdeaeb8477"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16845",
+   "short": "Lei 16845/2025",
+   "title": "Lei nº 16.845, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57512",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57512/lei_no_16.845-2025.pdf",
+     "sha256": "d6ac827f13698fb94b6f32370bb349d1f4204c88b24b1c11bb3db0f17a6fd7f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16844",
+   "short": "Lei 16844/2025",
+   "title": "Lei nº 16.844, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57511",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57511/lei_no_16.844-2025.pdf",
+     "sha256": "ad3d94f16758e066610ca9de78a7e69b2642028c25425f81cc94e4f98abbd2d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16843",
+   "short": "Lei 16843/2025",
+   "title": "Lei nº 16.843, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57510",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57510/lei_no_16.843-2025.pdf",
+     "sha256": "0432324f35979faa2c77424765d5c1afa39e3a193a6c87a2a89d9bcf9acf1931"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16842",
+   "short": "Lei 16842/2025",
+   "title": "Lei nº 16.842, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57509",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57509/lei_no_16.842-2025.pdf",
+     "sha256": "f029601d66ad9c3ebd49463d9e9111ed2fcf1c3c3a6caa5a456caa39a98cfb3c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16841",
+   "short": "Lei 16841/2025",
+   "title": "Lei nº 16.841, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57508",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57508/lei_no_16.841-2025.pdf",
+     "sha256": "f2700ebd6c12a2bd283b299f5c002e9a7dd7d476697f73d97d50a4ac378d8aa0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16840",
+   "short": "Lei 16840/2025",
+   "title": "Lei nº 16.840, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57507",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57507/lei_no_16.840-2025.pdf",
+     "sha256": "53085851e54720536d39feaafb037ff607f0166df72f2ee017afd03ee8e04877"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16839",
+   "short": "Lei 16839/2025",
+   "title": "Lei nº 16.839, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57506",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57506/lei_no_16.839-2025.pdf",
+     "sha256": "710d7f460569381a48ca81b8e34ed9bae8a86b3002ecde9eab3810785d67cff7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00558",
+   "short": "LC 558/2025",
+   "title": "Lei Complementar nº 558, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57502",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57502/lei_complementar_no_558_-_2025.pdf",
+     "sha256": "7f5ceebe2853c6d293c00bc63534eccc2c60f03e338184ae2166b10a1103570a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00557",
+   "short": "LC 557/2025",
+   "title": "Lei Complementar nº 557, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57504",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 11,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57504/lei_complementar_no_557_-_2025.pdf",
+     "sha256": "90cdb207c0821a89ebbf6c09bca422e689c8fb35479639034bbed35f696ce1eb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00556",
+   "short": "LC 556/2025",
+   "title": "Lei Complementar nº 556, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57503",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 17,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57503/lei_complementar_no_556_-_2025.pdf",
+     "sha256": "949f8a54079911a372bc7a1ee07cb87ac49f5b9128f5f13e64929eaf13322061"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00554",
+   "short": "LC 554/2025",
+   "title": "Lei Complementar nº 554, de 10 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57501",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 8,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57501/lei_complementar_no_554_-_2025.pdf",
+     "sha256": "bc51b52179667026a5f913dcb7b1b4d18fe97cb339af203422bae93b7d56bb65"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16838",
+   "short": "Lei 16838/2025",
+   "title": "Lei nº 16.838, de 9 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57499",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57499/lei_no_16.838-2025.pdf",
+     "sha256": "3f3fd6f796c88dbcf1713ac1d5d2ec0579484984220638d4bc15b694755a650f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16837",
+   "short": "Lei 16837/2025",
+   "title": "Lei nº 16.837, de 9 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57498",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57498/lei_no_16.837-2025.pdf",
+     "sha256": "82e7817cf49945db0413c6dadb09f9d624ff80418d9c62e6ed511aab40d47663"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16836",
+   "short": "Lei 16836/2025",
+   "title": "Lei nº 16.836, de 9 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57497",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57497/lei_no_16.836-2025.pdf",
+     "sha256": "562888599d6cb5a476cf2edcae8dcc750a13e4c5b502ccd5a25271fcf05b9087"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16835",
+   "short": "Lei 16835/2025",
+   "title": "Lei nº 16.835, de 4 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57485",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57485/lei_no_16.835-2025.pdf",
+     "sha256": "6f20c5d40c3d26242ca50d2bf8f28a128cddcb7dd2b12325ffac4f20f79f65c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16834",
+   "short": "Lei 16834/2025",
+   "title": "Lei nº 16.834, de 4 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57484",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57484/lei_no_16.834-2025.pdf",
+     "sha256": "34b07a19e0df7043eb19c3fd1689e41b7af31cd933d04d677bf61355bbd18275"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16833",
+   "short": "Lei 16833/2025",
+   "title": "Lei nº 16.833, de 4 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57483",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57483/lei_no_16.833-2025.pdf",
+     "sha256": "a18a6723b3ead356ab12e2f3da88394b9c41d0c4beb3f93125630f96a33478ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16832",
+   "short": "Lei 16832/2025",
+   "title": "Lei nº 16.832, de 4 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57482",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57482/lei_no_16.832-2025.pdf",
+     "sha256": "33db760a008e8e5f75d4df646aaf4c392df9d9c930c395a11ee58557699ba081"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16831",
+   "short": "Lei 16831/2025",
+   "title": "Lei nº 16.831, de 4 de dezembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57481",
+   "versions": [
+    {
+     "from": "2025-12-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57481/lei_no_16.831-2025.pdf",
+     "sha256": "b43053d92b23f3894fdec897076f61a5b11e5e26aeb166dcaff110723739fae8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16830",
+   "short": "Lei 16830/2025",
+   "title": "Lei nº 16.830, de 26 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57430",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57430/lei_no_16.830-2025.pdf",
+     "sha256": "c0667c11484f846d38f077e50076499aa3b75b55ea023395764e3a24a009e63c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00553",
+   "short": "LC 553/2025",
+   "title": "Lei Complementar nº 553, de 26 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57429",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57429/lei_complementar_no_553_-_2025.pdf",
+     "sha256": "44d83543581cdd6c27237c169baa42995d630305cfeb4d5b9a35fe8a32261c7b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00551",
+   "short": "LC 551/2025",
+   "title": "Lei Complementar nº 551, de 24 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57415",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 18,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57415/lei_complementar_no_551_-_2025.pdf",
+     "sha256": "f1c2ca0538ae8a94148d7194993aac74a3b403125db94ef5f2ed7025b2d183f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16828",
+   "short": "Lei 16828/2025",
+   "title": "Lei nº 16.828, de 14 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57394",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57394/lei_no_16.828-2025.pdf",
+     "sha256": "9ce557ab6ed3ce9484b324f8900d001d700d01eb3292fc90b70bc498ab82d64e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16827",
+   "short": "Lei 16827/2025",
+   "title": "Lei nº 16.827, de 14 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57393",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57393/lei_no_16.827-2025.pdf",
+     "sha256": "eaccc97d8387fcd49c44a060039b430c707eaf479aa384356043eb1ebaeaeb97"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16826",
+   "short": "Lei 16826/2025",
+   "title": "Lei nº 16.826, de 14 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57392",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57392/lei_no_16.826-2025.pdf",
+     "sha256": "eb89121b05c85ee5853e8c2f0753d36b7d1fe0bcf0ae8d4ce7dcc462141a4a48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16825",
+   "short": "Lei 16825/2025",
+   "title": "Lei nº 16.825, de 14 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57391",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57391/lei_no_16.825-2025.pdf",
+     "sha256": "f1140bbb142b225d9139cc30834363f17f8c85ac69527cbb4ce24a89a905f4ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16824",
+   "short": "Lei 16824/2025",
+   "title": "Lei nº 16.824, de 14 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57390",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 13,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57390/lei_no_16.824-2025.pdf",
+     "sha256": "55c2b0c2a37f350e80880fbee31e15c8f31d4f3520bf434a6e9ee3c8e67d2bb8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00549",
+   "short": "LC 549/2025",
+   "title": "Lei Complementar nº 549, de 14 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57388",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57388/lei_complementar_no_549_-_2025.pdf",
+     "sha256": "b324a00b55805af80475be86e2a77994fca1c22f96452565e2d442c63bc49534"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16823",
+   "short": "Lei 16823/2025",
+   "title": "Lei nº 16.823, de 12 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57374",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57374/lei_no_16.823-2025.pdf",
+     "sha256": "28dd55214e69f5c616d3004ac8bf774b29f298d51e2db65d74b11d5a11223bf6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16822",
+   "short": "Lei 16822/2025",
+   "title": "Lei nº 16.822, de 12 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57373",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57373/lei_no_16.822-2025.pdf",
+     "sha256": "f9bda4b4a5c1a63149f7ed18db6963dedf9d819aec4255dd97916140383b9739"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16821",
+   "short": "Lei 16821/2025",
+   "title": "Lei nº 16.821, de 12 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57372",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57372/lei_no_16.821-2025.pdf",
+     "sha256": "32640d1e0574e8ed45af2cecdb7262a76a0fdd2cae9cf7f614ed2bafc46b81e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16820",
+   "short": "Lei 16820/2025",
+   "title": "Lei nº 16.820, de 10 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57360",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57360/lei_no_16.820-2025.pdf",
+     "sha256": "bd699ec9406cde6093afd7cdb470df085a5a0c67b294502d01298ddbea40826c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16819",
+   "short": "Lei 16819/2025",
+   "title": "Lei nº 16.819, de 10 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57359",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57359/lei_no_16.819-2025.pdf",
+     "sha256": "ffc79de771ff5fd6e70743c1c6081efc6113f650c900d86ba8a598d5df37180e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16818",
+   "short": "Lei 16818/2025",
+   "title": "Lei nº 16.818, de 10 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57358",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57358/lei_no_16.818-2025.pdf",
+     "sha256": "a64b7af9914ec9bc9ee461c101f5192bda5f56516ffee20fcc50fb38a87a55cd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00548",
+   "short": "LC 548/2025",
+   "title": "Lei Complementar nº 548, de 10 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57357",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57357/lei_complementar_no_548_-_2025.pdf",
+     "sha256": "96d77cd3c538b1ba15dc50874ed6e71adf0ab67fb4cc4b958f827fd8505a4967"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16817",
+   "short": "Lei 16817/2025",
+   "title": "Lei nº 16.817, de 5 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57344",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57344/lei_no_16.817-2025.pdf",
+     "sha256": "bd5f276f2dfa73175c6ab7efb4f3c84222766d43d6302c8c39646ed248eed139"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16816",
+   "short": "Lei 16816/2025",
+   "title": "Lei nº 16.816, de 5 de novembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57343",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57343/lei_no_16.816-2025.pdf",
+     "sha256": "90782c712c8fc45609173b84db19aa9d184052026978b8a25612447927a84f20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16815",
+   "short": "Lei 16815/2025",
+   "title": "Lei nº 16.815, de 31 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57328",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57328/lei_no_16.815-2025.pdf",
+     "sha256": "3e3d4dbe7556204ec2eb429f905417ea00a043c55f8b3de13c40127380b4b27f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16814",
+   "short": "Lei 16814/2025",
+   "title": "Lei nº 16.814, de 31 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57327",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57327/lei_no_16.814-2025.pdf",
+     "sha256": "a5315369688b2c35e948b23e56253ae321dc36fd860a727fad1603ea23dfa078"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00547",
+   "short": "LC 547/2025",
+   "title": "Lei Complementar nº 547, de 31 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57326",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57326/lei_complementar_no_547_-_2025.pdf",
+     "sha256": "3bb85909e461cc47c184793a5ee8e112be74b22f6af9b367b568af0294bf6012"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16813",
+   "short": "Lei 16813/2025",
+   "title": "Lei nº 16.813, de 21 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57283",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 8,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57283/lei_no_16.813-2025.pdf",
+     "sha256": "e4ba019d8f8730f8f181cccc21b54cc624c8a788621a028daf4b98c2354c759e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16812",
+   "short": "Lei 16812/2025",
+   "title": "Lei nº 16.812, de 21 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57282",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57282/lei_no_16.812-2025.pdf",
+     "sha256": "843dd3eb544ce84da9332f7ff0b7221877f70b77bee85d6d35c84bd9fbc11c91"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00546",
+   "short": "LC 546/2025",
+   "title": "Lei Complementar nº 546, de 21 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57281",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57281/lei_complementar_no_546_-_2025.pdf",
+     "sha256": "9942c4ee6f3993178a95a3b95859d1e874d7c658ef2aaba363dd731d81427839"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00545",
+   "short": "LC 545/2025",
+   "title": "Lei Complementar nº 545, de 21 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57279",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57279/lei_complementar_no_545_-_2025.pdf",
+     "sha256": "b720748919339a62710a23822bdb4403006878185edb4c931913fd27742daac7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00544",
+   "short": "LC 544/2025",
+   "title": "Lei Complementar nº 544, de 21 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57280",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57280/lei_complementar_no_544_-_2025.pdf",
+     "sha256": "1c77fa38877bd3f4354c6cc780111bb6d32590d1d3a0a6317d28f880555b2567"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16811",
+   "short": "Lei 16811/2025",
+   "title": "Lei nº 16.811, de 14 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57243",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57243/lei_no_16.811-2025.pdf",
+     "sha256": "738c7ac8ecaa0211c9456f0dbd587d0f126a3a893d6a37a041f67812ea6802ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16810",
+   "short": "Lei 16810/2025",
+   "title": "Lei nº 16.810, de 14 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57242",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57242/lei_no_16.810-2025.pdf",
+     "sha256": "917c3a75f353f9e37cf5ea978ed987aa646cfe94b20a430f3b443bbe4a2e86f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16809",
+   "short": "Lei 16809/2025",
+   "title": "Lei nº 16.809, de 14 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57241",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 8,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57241/lei_no_16.809-2025.pdf",
+     "sha256": "56adaa7c8016c2cb69d8b46e853ffa8a0c880b36f3f3bacdbf01caf72dc3bdec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16808",
+   "short": "Lei 16808/2025",
+   "title": "Lei nº 16.808, de 14 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57240",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57240/lei_no_16.808-2025.pdf",
+     "sha256": "8c78126955aa94bc71f939e34a916a35d29d5f2042b61d44724e23f9df90332e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00543",
+   "short": "LC 543/2025",
+   "title": "Lei Complementar nº 543, de 14 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57237",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57237/lei_complementar_no_543_-_2025.pdf",
+     "sha256": "e10c7c10066a5d9821ecac8478bf46a6f45cdc5598553c0b1e8e12b6b66870ef"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00542",
+   "short": "LC 542/2025",
+   "title": "Lei Complementar nº 542, de 14 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57236",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57236/lei_complementar_no_542_-_2025.pdf",
+     "sha256": "b01db63db69f61bc33d0f9a773011c42f856b0b2e10767e896a1d844e29b95af"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00541",
+   "short": "LC 541/2025",
+   "title": "Lei Complementar nº 541, de 14 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57234",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 8,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57234/lei_complementar_no_541_-_2025.pdf",
+     "sha256": "ffe79b653f9e4a9724814b164fe874c10c07e7365d560dba07fa9cdcda11298e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16807",
+   "short": "Lei 16807/2025",
+   "title": "Lei nº 16.807, de 7 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57213",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57213/lei_no_16.807-2025.pdf",
+     "sha256": "7430380137aa91084fc0259ab9f5ea9a5ddcf845ee4fe73f5b0c54b901715f4e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00540",
+   "short": "LC 540/2025",
+   "title": "Lei Complementar nº 540, de 7 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57212",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57212/lei_complementar_no_540_-_2025.pdf",
+     "sha256": "b57b9de792825f426ad9161b2d7d3d3cb9be0931b4b829121477024abf446c89"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00539",
+   "short": "LC 539/2025",
+   "title": "Lei Complementar nº 539, de 7 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57211",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 29,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57211/lei_complementar_no_539_-_2025.pdf",
+     "sha256": "5eb26564aa368db150a38b69f825d0994f045610464cfa835df6dee7902fb3d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16806",
+   "short": "Lei 16806/2025",
+   "title": "Lei nº 16.806, de 2 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57190",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57190/lei_no_16.806-2025.pdf",
+     "sha256": "f563dd45c630a2001453082c2d154b27f5cd042a4d33bd29ff44692573a000b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16805",
+   "short": "Lei 16805/2025",
+   "title": "Lei nº 16.805, de 2 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57189",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57189/lei_no_16.805-2025.pdf",
+     "sha256": "2ae9a51c5ac5cf5f31f40dbffd2dfe827eee029989c7c3715f45240cc9434c0f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16804",
+   "short": "Lei 16804/2025",
+   "title": "Lei nº 16.804, de 2 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57188",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57188/lei_no_16.804-2025.pdf",
+     "sha256": "e4e7346e0663e12b7ee71481405de2e056146ae412dbb8252911ee34cf62b436"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16803",
+   "short": "Lei 16803/2025",
+   "title": "Lei nº 16.803, de 2 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57187",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57187/lei_no_16.803-2025.pdf",
+     "sha256": "75f5ea95d73fcb33dc5484d7f3ea8b7794a2e0137de77fcf082b8a667c925fb6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16802",
+   "short": "Lei 16802/2025",
+   "title": "Lei nº 16.802, de 2 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57186",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57186/lei_no_16.802-2025.pdf",
+     "sha256": "53eb26c0b6dc2b29733981367617da7ce87783534bd9e10288d7499dd353f4a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16801",
+   "short": "Lei 16801/2025",
+   "title": "Lei nº 16.801, de 2 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57185",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57185/lei_no_16.801-2025.pdf",
+     "sha256": "9ebf1bd804c2f3eff04dbc96ccff23c7b930204a64ef1931487c8e758397e57a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00538",
+   "short": "LC 538/2025",
+   "title": "Lei Complementar nº 538, de 2 de outubro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57183",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 15,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57183/lei_complementar_no_538_-_2025.pdf",
+     "sha256": "1b73b66a4be90c958d1cb16acf8db4c170d194785afd8dd260055d7b04a51fd7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16800",
+   "short": "Lei 16800/2025",
+   "title": "Lei nº 16.800, de 30 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57171",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57171/lei_no_16.800-2025.pdf",
+     "sha256": "0de357ca9b79f16c60608694a5602aa7d4d6798287d6ce56cc570bf59bd8e3ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16799",
+   "short": "Lei 16799/2025",
+   "title": "Lei nº 16.799, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57134",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57134/lei_no_16.799-2025.pdf",
+     "sha256": "ad5b692edee20a3c628a3a561f131e263cf477ff4bdc7c17eccc3f3dd9631522"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16798",
+   "short": "Lei 16798/2025",
+   "title": "Lei nº 16.798, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57133",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57133/lei_no_16.798-2025.pdf",
+     "sha256": "4b356988cff29d671e5f5c2355ee916d84f38443c684fa709f598a2f8ebab333"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16797",
+   "short": "Lei 16797/2025",
+   "title": "Lei nº 16.797, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57132",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57132/lei_no_16.797-2025.pdf",
+     "sha256": "ef4053b9f7080204c8518492913b1d89c7585187ff1266814ebb6f5057606c87"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16796",
+   "short": "Lei 16796/2025",
+   "title": "Lei nº 16.796, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57131",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57131/lei_no_16.796-2025.pdf",
+     "sha256": "174e05c76e000c1daba35b293003b3f4513c29be9d41a2619efcc1614198cc98"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16795",
+   "short": "Lei 16795/2025",
+   "title": "Lei nº 16.795, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57130",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57130/lei_no_16.795-2025.pdf",
+     "sha256": "249296af327c3d99365257356528289078e10cef55dbf4891eff92a21f00c157"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16794",
+   "short": "Lei 16794/2025",
+   "title": "Lei nº 16.794, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57124",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57124/lei_no_16.794-2025.pdf",
+     "sha256": "2287a756cc800037e5bbfa2f242ca980809a7b2283007ef1be4a68820f247850"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16793",
+   "short": "Lei 16793/2025",
+   "title": "Lei nº 16.793, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57100",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57100/lei_no_16.793-2025.pdf",
+     "sha256": "f37468e8fda62153b1ec817db124e5510bb06d748bf28971aafcbedc0d00047f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16792",
+   "short": "Lei 16792/2025",
+   "title": "Lei nº 16.792, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57099",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57099/lei_no_16.792-2025.pdf",
+     "sha256": "e4247a0edf73922ee31079d6791fc1e4b529543ab3b467e26e2f887e60578978"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00536",
+   "short": "LC 536/2025",
+   "title": "Lei Complementar nº 536, de 23 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57098",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57098/lei_complementar_no_536_-_2025.pdf",
+     "sha256": "023b78a26ad0f99dc2cb8b791d37e0e0ff5e19b4b2ef96e944a4bcb75e43757f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16791",
+   "short": "Lei 16791/2025",
+   "title": "Lei nº 16.791, de 16 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/57009",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 11,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/57009/lei_no_16.791-2025.pdf",
+     "sha256": "70bdbb01017691c90d98166ae0e6a8c3536c1c7f772d864cf543d21cde71cd29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16790",
+   "short": "Lei 16790/2025",
+   "title": "Lei nº 16.790, de 11 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56990",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56990/lei_no_16.790-2025.pdf",
+     "sha256": "dc766628fa191536a4188ddf06da96b82fe0eb9db44f76ef1858f73298b3a7b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16789",
+   "short": "Lei 16789/2025",
+   "title": "Lei nº 16.789, de 11 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56989",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56989/lei_no_16.789-2025.pdf",
+     "sha256": "072f1fffdf14dcbfb5cb3124f0becc70624750ab2f68c38a276e3048e2d55466"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16787",
+   "short": "Lei 16787/2025",
+   "title": "Lei nº 16.787, de 2 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56906",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56906/lei_no_16.787-2025.pdf",
+     "sha256": "8189ac0e8bb2ef97dbb7b7262aa48fa341a1fbb1196b16e77b5bf22b30199bcb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16786",
+   "short": "Lei 16786/2025",
+   "title": "Lei nº 16.786, de 2 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56903",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56903/lei_no_16.786-2025.pdf",
+     "sha256": "accb253fe0cb17729a5774e9308a3cf206632cc16d324c01751a675a26af62b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16785",
+   "short": "Lei 16785/2025",
+   "title": "Lei nº 16.785, de 1 de setembro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56894",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56894/lei_no_16.785-2025.pdf",
+     "sha256": "43cf3859df2c6c8cfb3c6d4c233b9742223091e53646d1c91a317869c8b1ebaf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16784",
+   "short": "Lei 16784/2025",
+   "title": "Lei nº 16.784, de 27 de agosto de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56884",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56884/lei_no_16.784-2025.pdf",
+     "sha256": "90afb17e4e59fa9ea7f8e7bfbfd2884069f2d0ff830223804ff668bcdd93a2ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16783",
+   "short": "Lei 16783/2025",
+   "title": "Lei nº 16.783, de 14 de agosto de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56798",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56798/lei_no_16.783-2025.pdf",
+     "sha256": "0586e3ff70f701a78206da738dd50257df516c6fc2ad67a96161e1e77fe44328"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16782",
+   "short": "Lei 16782/2025",
+   "title": "Lei nº 16.782, de 21 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56714",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56714/lei_no_16.782-2025.pdf",
+     "sha256": "3940d855bc8825313b406f70d73f72f8632fdc3ed74797fef0a725ed9998d31b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16781",
+   "short": "Lei 16781/2025",
+   "title": "Lei nº 16.781, de 21 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56713",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56713/lei_no_16.781-2025.pdf",
+     "sha256": "c75d07a2024fef2cdb8bde23cb466e8378682a597e9013298441201b39cf2411"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16780",
+   "short": "Lei 16780/2025",
+   "title": "Lei nº 16.780, de 21 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56712",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56712/lei_no_16.780-2025.pdf",
+     "sha256": "61c054d8e3c5b549d29a43972f9de12de9b63ad53c27ba825c5ebb5f19b67f83"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00535",
+   "short": "LC 535/2025",
+   "title": "Lei Complementar nº 535, de 21 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56711",
+   "versions": [
+    {
+     "from": "2025-07-22",
+     "units": 58,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56711/lei_complementar_no_535_-_2025.pdf",
+     "sha256": "482fea485400c5e7601c195f0c859be3e2da77f12020bd4c5ae7c74bb69652e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16779",
+   "short": "Lei 16779/2025",
+   "title": "Lei nº 16.779, de 16 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56692",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 60,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56692/lei_no_16.779-2025.pdf",
+     "sha256": "2ed55f67c7687e1a4beb6cd450edc5a53a509408e29c00d15e6e79fe697172ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16778",
+   "short": "Lei 16778/2025",
+   "title": "Lei nº 16.778, de 16 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56691",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56691/lei_no_16.778-2025.pdf",
+     "sha256": "56c250e76035c72b7135cfe8ec4b5e2cfabbca2964b661c5cf3ec04b5ae9be3f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00533",
+   "short": "LC 533/2025",
+   "title": "Lei Complementar nº 533, de 16 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56689",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56689/lei_complementar_no_533_-_2025.pdf",
+     "sha256": "f87ef644546819b64e6b5bcfcacb9a3b55af6378dddf3533e434c1857004598a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16777",
+   "short": "Lei 16777/2025",
+   "title": "Lei nº 16.777, de 4 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56669",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56669/lei_no_16.777-2025.pdf",
+     "sha256": "50dbdf244cf2fc24c4e1db468ec607c2fd714a42dff008050f0f4bd3a140756e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16776",
+   "short": "Lei 16776/2025",
+   "title": "Lei nº 16.776, de 4 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56668",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56668/lei_no_16.776-2025.pdf",
+     "sha256": "bea65b44b73f2c935d0bd39883ef0b875bc7a37ac2177a9f82fef4365661ffd6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16775",
+   "short": "Lei 16775/2025",
+   "title": "Lei nº 16.775, de 4 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56665",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56665/lei_no_16.775-2025.pdf",
+     "sha256": "6ddb7ac945c12e20387b231a046fef48d2df766347bc94fd27f11a73556775a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16774",
+   "short": "Lei 16774/2025",
+   "title": "Lei nº 16.774, de 1 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56643",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56643/lei_no_16.774-2025.pdf",
+     "sha256": "bbb1a4f29fe7f81bced252dda60ffbbbcea2a74e7ab6a9846df25ea9bdf5e59e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16773",
+   "short": "Lei 16773/2025",
+   "title": "Lei nº 16.773, de 1 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56642",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56642/lei_no_16.773-2025.pdf",
+     "sha256": "f8f118622ba709a76ec50e71184359e9898948cb642cd08f6f6b5123cbb7a821"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16772",
+   "short": "Lei 16772/2025",
+   "title": "Lei nº 16.772, de 1 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56641",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56641/lei_no_16.772-2025.pdf",
+     "sha256": "3902b54e95f6a936788d8215697c4c17410cfb599f2f82a0131c1ab3d3f7959f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16771",
+   "short": "Lei 16771/2025",
+   "title": "Lei nº 16.771, de 1 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56640",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56640/lei_no_16.771-2025.pdf",
+     "sha256": "a39d92d194ceafe396c5ab69570e29850ccc5f8016285269994a3331b421dd27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16770",
+   "short": "Lei 16770/2025",
+   "title": "Lei nº 16.770, de 1 de julho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56639",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56639/lei_no_16.770-2025.pdf",
+     "sha256": "f1c20b4bbfd8acb41ad05d84f7bfd4da6b54bf91598b96597f436aa3bffd568a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16769",
+   "short": "Lei 16769/2025",
+   "title": "Lei nº 16.769, de 30 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56628",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56628/lei_no_16.769-2025.pdf",
+     "sha256": "cfa008d9ee7b03145bd584ee8401c866d63d6639dd496cd2c5b1ad06db0ea731"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16768",
+   "short": "Lei 16768/2025",
+   "title": "Lei nº 16.768, de 30 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56627",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 8,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56627/lei_no_16.768-2025.pdf",
+     "sha256": "2e4fe24f38927bdde878e71580583e0161009962078ff93d38452a1009508a2a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16767",
+   "short": "Lei 16767/2025",
+   "title": "Lei nº 16.767, de 30 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56626",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56626/lei_no_16.767-2025.pdf",
+     "sha256": "7fb7603e72013cad09d486adbe969915bf172e9c12e35f89ef4865c24c701dc2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16766",
+   "short": "Lei 16766/2025",
+   "title": "Lei nº 16.766, de 30 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56625",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56625/lei_no_16.766-2025.pdf",
+     "sha256": "e76b7a714b8970bec772a0508177fe64fa3ead5266b5157952d6885df54b6bdb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16765",
+   "short": "Lei 16765/2025",
+   "title": "Lei nº 16.765, de 30 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56624",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56624/lei_no_16.765-2025.pdf",
+     "sha256": "b0e58958ea20749a45932386c5dc911688230f08258cd5f48164f7a21bb080c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16764",
+   "short": "Lei 16764/2025",
+   "title": "Lei nº 16.764, de 30 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56623",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56623/lei_no_16.764-2025.pdf",
+     "sha256": "8b5d6a32156505c105138294be06d98cee42496ff87d7497156e0a4d19d95428"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16763",
+   "short": "Lei 16763/2025",
+   "title": "Lei nº 16.763, de 30 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56622",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56622/lei_no_16.763-2025.pdf",
+     "sha256": "820e933f5dd34730359826bb27e5ea3812a659f86ef804b1367f0f69df3ae2eb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00530",
+   "short": "LC 530/2025",
+   "title": "Lei Complementar nº 530, de 30 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56620",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56620/lei_complementar_no_530_-_2025.pdf",
+     "sha256": "769b5f69a0cfaba7cd79076376878577137d2eeb8143086a9cfd0817ab612924"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16762",
+   "short": "Lei 16762/2025",
+   "title": "Lei nº 16.762, de 26 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56607",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56607/lei_no_16.762-2025.pdf",
+     "sha256": "2259236a595462c8074b3a68e53307b445f1c1270a6c59990627116faa3776ec"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00529",
+   "short": "LC 529/2025",
+   "title": "Lei Complementar nº 529, de 26 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56606",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 8,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56606/lei_complementar_no_529_-_2025.pdf",
+     "sha256": "7b0fbbb245a10e61ecb9d8a4809eb0714c60617884e7b9f4bd2e558a3ade95ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16761",
+   "short": "Lei 16761/2025",
+   "title": "Lei nº 16.761, de 23 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56589",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56589/lei_no_16.761-2025.pdf",
+     "sha256": "d0c62029ff964e7232898c64fcc7abef9349dc55bdab0e230152b5eb18f5971f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16760",
+   "short": "Lei 16760/2025",
+   "title": "Lei nº 16.760, de 12 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56557",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56557/lei_no_16.760-2025.pdf",
+     "sha256": "9fbedad1d31964b644f299855d19dc08663201eb4c244826900c720a63a07b04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16759",
+   "short": "Lei 16759/2025",
+   "title": "Lei nº 16.759, de 12 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56556",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56556/lei_no_16.759-2025.pdf",
+     "sha256": "52c2bbc642f04d7ed917df661b3d2255c91afc342e2371dfca70c73d0d57e334"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16758",
+   "short": "Lei 16758/2025",
+   "title": "Lei nº 16.758, de 12 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56555",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56555/lei_no_16.758-2025.pdf",
+     "sha256": "039e24e3d9d5a55992acab640863ee465dc79c3d4d8eda8b82d38c1db5d5b0fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16757",
+   "short": "Lei 16757/2025",
+   "title": "Lei nº 16.757, de 12 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56554",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56554/lei_no_16.757-2025.pdf",
+     "sha256": "3304040d4f79bf7a1ef3620ef09769fe0c46eca5f0759f777154a0d7bc8b0dd1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16756",
+   "short": "Lei 16756/2025",
+   "title": "Lei nº 16.756, de 12 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56553",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56553/lei_no_16.756-2025.pdf",
+     "sha256": "352d7ce9f7bbdc654d1960294382de923d5ef4f9ed42ffb27272c3d8ab83facc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00527",
+   "short": "LC 527/2025",
+   "title": "Lei Complementar nº 527, de 12 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56550",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56550/lei_complementar_no_527_-_2025.pdf",
+     "sha256": "72bd4db10a8f020f0f9b6a6e99eb6d717fc8b9dbe442357e8126a2911c5eb47d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00526",
+   "short": "LC 526/2025",
+   "title": "Lei Complementar nº 526, de 12 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56549",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56549/lei_complementar_no_526_-_2025.pdf",
+     "sha256": "a8ef190b35aed32d1c9f429d5f18c27ad68d153fbf9cb654b56cb70597fdd244"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00525",
+   "short": "LC 525/2025",
+   "title": "Lei Complementar nº 525, de 12 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56548",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56548/lei_complementar_no_525_-_2025.pdf",
+     "sha256": "86094a0b2e6ef4c933e872a82c5ab62c3befafe947eb2845f6a695e447c79242"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16755",
+   "short": "Lei 16755/2025",
+   "title": "Lei nº 16.755, de 5 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56520",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56520/lei_no_16.755-2025.pdf",
+     "sha256": "e10976cd4e680c67f123bdc7d9badfccbef8d2e064753d0b46b6e8fc385ee49b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16754",
+   "short": "Lei 16754/2025",
+   "title": "Lei nº 16.754, de 5 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56519",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56519/lei_no_16.754-2025.pdf",
+     "sha256": "cfcba6a8eb21eb025699dd45c2f1c139509f1b29f6fe12228e5262ac0cf1c590"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16753",
+   "short": "Lei 16753/2025",
+   "title": "Lei nº 16.753, de 5 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56518",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56518/lei_no_16.753-2025.pdf",
+     "sha256": "3f711c9a4512b22b6cf6925aa5921bedd09fe659559319b288abf843b8bda68d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16752",
+   "short": "Lei 16752/2025",
+   "title": "Lei nº 16.752, de 5 de junho de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56517",
+   "versions": [
+    {
+     "from": "2025-06-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56517/lei_no_16.752-2025.pdf",
+     "sha256": "c841e47d6f54a4a61212e1bd7cb01fec5b4361a77c04928010859e4c4e2cfd96"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16751",
+   "short": "Lei 16751/2025",
+   "title": "Lei nº 16.751, de 23 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56482",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56482/lei_no_16.751-2025.pdf",
+     "sha256": "904cd4911a883ed3fe830353560f2c57f21e94c26661291324454b1a9ec2910d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16750",
+   "short": "Lei 16750/2025",
+   "title": "Lei nº 16.750, de 23 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56481",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56481/lei_no_16.750-2025.pdf",
+     "sha256": "d0d3e3b04b76d9bd6369e414de98dfbc274902ac9891df9fefc327c3a21747bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16749",
+   "short": "Lei 16749/2025",
+   "title": "Lei nº 16.749, de 22 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56476",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56476/lei_no_16.749-2025.pdf",
+     "sha256": "b90d0970b6c1b3f39072611363ae45e70fbf222d9f9a6f1ac4662dadac32f5b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16748",
+   "short": "Lei 16748/2025",
+   "title": "Lei nº 16.748, de 22 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56475",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56475/lei_no_16.748-2025.pdf",
+     "sha256": "4c530407671415783555ebd35cfe406a44331ca8665862e70d8c9cc08c21a290"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16747",
+   "short": "Lei 16747/2025",
+   "title": "Lei nº 16.747, de 22 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56474",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56474/lei_no_16.747-2025.pdf",
+     "sha256": "abd2aefb9e6bcce80faaaa1da71be149e390d1c55ef37b640927f609a462c120"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16746",
+   "short": "Lei 16746/2025",
+   "title": "Lei nº 16.746, de 22 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56473",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56473/lei_no_16.746-2025.pdf",
+     "sha256": "a99924eb017f2b3f15ef07c47b92f0e0602154c3077560bcdc630154b745d228"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00524",
+   "short": "LC 524/2025",
+   "title": "Lei Complementar nº 524, de 22 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56480",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 9,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56480/lei_complementar_no_524_-_2025.pdf",
+     "sha256": "f27dd84ef53cd25bc5a8534af913826623d293e1cd769202e21001132ec5a09b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16745",
+   "short": "Lei 16745/2025",
+   "title": "Lei nº 16.745, de 15 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56450",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56450/lei_no_16.745-2025.pdf",
+     "sha256": "affb850a16547048a60bfd21d841b770b9d3080171d92d3c7606e5dea9b8d569"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16744",
+   "short": "Lei 16744/2025",
+   "title": "Lei nº 16.744, de 15 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56449",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56449/lei_no_16.744-2025.pdf",
+     "sha256": "59cd8e925d008e2d122cb81c897a0125719dfb67a9daecd11e9684fdd282b8e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16743",
+   "short": "Lei 16743/2025",
+   "title": "Lei nº 16.743, de 15 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56448",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56448/lei_no_16.743-2025.pdf",
+     "sha256": "97876255d62fbd27702b839cdcffb617fcb6a436f1981f5dd52b5df65e729270"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16742",
+   "short": "Lei 16742/2025",
+   "title": "Lei nº 16.742, de 15 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56447",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56447/lei_no_16.742-2025.pdf",
+     "sha256": "db350d303ca7c1abff6eb4dfe6444babfde89a70edbfd986ec0275bb2a5b29ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16741",
+   "short": "Lei 16741/2025",
+   "title": "Lei nº 16.741, de 15 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56446",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56446/lei_no_16.741-2025.pdf",
+     "sha256": "3537a414bc811e03714da64671427a7bb6f5c69965365161f2cd41efca00087e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16740",
+   "short": "Lei 16740/2025",
+   "title": "Lei nº 16.740, de 15 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56445",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56445/lei_no_16.740-2025.pdf",
+     "sha256": "fbe08b406bc28d5d52ca285ccf2996ec49783a8a75ebaf1f0acc5ab34a7aa31d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16739",
+   "short": "Lei 16739/2025",
+   "title": "Lei nº 16.739, de 15 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56444",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56444/lei_no_16.739-2025.pdf",
+     "sha256": "4fd4017c6032aa7cac54de3dc2e8b07a649173f86874d0461d6ab1ebde4cbf4c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00520",
+   "short": "LC 520/2025",
+   "title": "Lei Complementar nº 520, de 13 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56432",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56432/lei_complementar_no_520_-_2025.pdf",
+     "sha256": "02874aa8def4bf3646546cc0e5f4fe4ef30dcf4e0cc442708b23ba1b1852daf9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16738",
+   "short": "Lei 16738/2025",
+   "title": "Lei nº 16.738, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56420",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56420/lei_no_16.738-2025.pdf",
+     "sha256": "aab8601b6e56d81f4925281c75cdb798773e51550531775ee8925f348fc485b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16737",
+   "short": "Lei 16737/2025",
+   "title": "Lei nº 16.737, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56419",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56419/lei_no_16.737-2025.pdf",
+     "sha256": "ffac42f57601ac3ddec8d1b9cb6194a90fc68ff1ab6790d3ffcadd592ef6093a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16736",
+   "short": "Lei 16736/2025",
+   "title": "Lei nº 16.736, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56418",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56418/lei_no_16.736-2025.pdf",
+     "sha256": "57039e5a04f8444937b3c6caa0f6fa17b69d748ef0593a9b6daacf8669a6a9d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16735",
+   "short": "Lei 16735/2025",
+   "title": "Lei nº 16.735, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56417",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56417/lei_no_16.735-2025.pdf",
+     "sha256": "7b895709b7a19340c52e3b313b05c2f146f9b9f5dbe06030b9b7a214a8604112"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16734",
+   "short": "Lei 16734/2025",
+   "title": "Lei nº 16.734, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56416",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56416/lei_no_16.734-2025.pdf",
+     "sha256": "145ec5bf62f7ebb3a2ebf4e0408e7fed1a8ffe2ba2f9ae3f70cc4f12ca15bb82"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16733",
+   "short": "Lei 16733/2025",
+   "title": "Lei nº 16.733, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56415",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56415/lei_no_16.733-2025.pdf",
+     "sha256": "5c688586561ac30a722495966f5ab71a563c06b0edf297ccba515dd69a6f6cf0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16732",
+   "short": "Lei 16732/2025",
+   "title": "Lei nº 16.732, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56414",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56414/lei_no_16.732-2025.pdf",
+     "sha256": "cf68fc2c0c6b9c743be594c006908465c59b62e5ed1d7936ea3d08c5d38d30fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16731",
+   "short": "Lei 16731/2025",
+   "title": "Lei nº 16.731, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56413",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56413/lei_no_16.731-2025.pdf",
+     "sha256": "7451b87f557c6ff7f4d0f20ab9f1cfba0de55a222bcbf54e533db3db876c7b0f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16730",
+   "short": "Lei 16730/2025",
+   "title": "Lei nº 16.730, de 9 de maio de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56412",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56412/lei_no_16.730-2025.pdf",
+     "sha256": "389833a242f4a051c0d0c9e9579146373f67ab67447137fc83f4b475c5ab5b5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16729",
+   "short": "Lei 16729/2025",
+   "title": "Lei nº 16.729, de 30 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56378",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56378/lei_no_16.729-2025.pdf",
+     "sha256": "3baf614484b4754fa1f059a6fafc7de079731f218b29d8c5e34125b64e72ae67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16728",
+   "short": "Lei 16728/2025",
+   "title": "Lei nº 16.728, de 30 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56377",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 2,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56377/lei_no_16.728-2025.pdf",
+     "sha256": "4ee93b5be36efc8e91845c667ecf3fbd9d509cf53a9f4b3123b8430af0b37355"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16727",
+   "short": "Lei 16727/2025",
+   "title": "Lei nº 16.727, de 30 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56376",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56376/lei_no_16.727-2025.pdf",
+     "sha256": "fa1663c3ace4b7542e02ce169857fa8b02f779c2eecccd10f2674cbfdfbd88e7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16726",
+   "short": "Lei 16726/2025",
+   "title": "Lei nº 16.726, de 30 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56375",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56375/lei_no_16.726-2025.pdf",
+     "sha256": "0af7f997cf18ef5428283d8f943981e6a0c7cb0a3578069714566e063fcd4732"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16725",
+   "short": "Lei 16725/2025",
+   "title": "Lei nº 16.725, de 30 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56374",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56374/lei_no_16.725-2025.pdf",
+     "sha256": "583b7d51fbc337d1182e97b39851c567a4483590ab8d68c08dbe68fc0e5bea4e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00519",
+   "short": "LC 519/2025",
+   "title": "Lei Complementar nº 519, de 30 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56373",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56373/lei_complementar_no_519_-_2025.pdf",
+     "sha256": "62cec1b8e4f109202e7fcb084f61662cb6a03bb13e1cfd592eab15b32c0dba70"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16724",
+   "short": "Lei 16724/2025",
+   "title": "Lei nº 16.724, de 23 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56349",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56349/lei_no_16.724-2025.pdf",
+     "sha256": "3924d9b48223e93086884ac840ae40811c20974d0b0e88457646da39445173ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16723",
+   "short": "Lei 16723/2025",
+   "title": "Lei nº 16.723, de 23 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56348",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56348/lei_no_16.723-2025.pdf",
+     "sha256": "3ca6858285e7505f3a383cebbc7bcf05318d22c6529489d5dc9adfaeff786e65"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16722",
+   "short": "Lei 16722/2025",
+   "title": "Lei nº 16.722, de 23 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56347",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56347/lei_no_16.722-2025.pdf",
+     "sha256": "98a9dd79975ce515e54af6e9b77052108674ae5330245826ef97d9aab855f11b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16721",
+   "short": "Lei 16721/2025",
+   "title": "Lei nº 16.721, de 23 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56346",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56346/lei_no_16.721-2025.pdf",
+     "sha256": "6a0254e30437ab700fbd5c45ca82507515657c7a14c774bf6e511bc18bff5f00"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16720",
+   "short": "Lei 16720/2025",
+   "title": "Lei nº 16.720, de 23 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56345",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56345/lei_no_16.720-2025.pdf",
+     "sha256": "d98be8f189861a71e850ca863c1ef59658fd69b7ccc9b78d8c7674b89e240821"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16719",
+   "short": "Lei 16719/2025",
+   "title": "Lei nº 16.719, de 7 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56282",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56282/lei_no_16.719-2025.pdf",
+     "sha256": "070839a7bac7b82205b66cb2aa8ae6e8bf8476f98564c8ff50ea54b989ae2778"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16718",
+   "short": "Lei 16718/2025",
+   "title": "Lei nº 16.718, de 7 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56281",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 9,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56281/lei_no_16.718-2025.pdf",
+     "sha256": "7a00fd6e1d62386a68633392ca8dd6e4e29a1f623fee753ab280d2581de7188f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16717",
+   "short": "Lei 16717/2025",
+   "title": "Lei nº 16.717, de 7 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56280",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56280/lei_no_16.717-2025.pdf",
+     "sha256": "38f08befdce843e369979e1936d4489ca5cd83a063e08047237e3595f4455f0a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16715",
+   "short": "Lei 16715/2025",
+   "title": "Lei nº 16.715, de 3 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56273",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56273/lei_no_16.715-2025.pdf",
+     "sha256": "7fb33bfef4fbb9d91881669519a19d43651cc14c0cd26aebd3bbe1d2c8ffbe1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16714",
+   "short": "Lei 16714/2025",
+   "title": "Lei nº 16.714, de 3 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56272",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56272/lei_no_16.714-2025.pdf",
+     "sha256": "4da5d181ea38b4586cd210ee84f7a6112f78d0ffa7a9902003bca9604d547c40"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16713",
+   "short": "Lei 16713/2025",
+   "title": "Lei nº 16.713, de 3 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56271",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56271/lei_no_16.713-2025.pdf",
+     "sha256": "1a78b96bcd6e8d13f0e523c8ab4d53fa8800ec41cda8fc03c23454b24426d80b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16712",
+   "short": "Lei 16712/2025",
+   "title": "Lei nº 16.712, de 3 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56270",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56270/lei_no_16.712-2025.pdf",
+     "sha256": "c3bb7edba1846e2977a1404ef5fee40914c3a6d48369255f5b0492ab48e2f948"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16711",
+   "short": "Lei 16711/2025",
+   "title": "Lei nº 16.711, de 3 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56269",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56269/lei_no_16.711-2025.pdf",
+     "sha256": "4ae70584a5f413be3c19b6b5d34402527e1e4cbe323cc7e784039733d71a65b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16710",
+   "short": "Lei 16710/2025",
+   "title": "Lei nº 16.710, de 3 de abril de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56268",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56268/lei_no_16.710-2025.pdf",
+     "sha256": "3e8b03be8952b3230a4707cfabf5f81a63f1b99a403dc9d4acdea197cbfb4883"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00518",
+   "short": "LC 518/2025",
+   "title": "Lei Complementar nº 518, de 27 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56245",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 20,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56245/lei_complementar_no_518_-_2025.pdf",
+     "sha256": "6aa5b48db687fd49192f1cb528c94b5b5b849b43d2f71b452a3d7c9480e14e20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16709",
+   "short": "Lei 16709/2025",
+   "title": "Lei nº 16.709, de 25 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56229",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56229/lei_no_16.709-2025.pdf",
+     "sha256": "a9addccdf3d966b7580023ffbb8f05a3d061e9aa7931c14bbd526bc0f650fe04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16708",
+   "short": "Lei 16708/2025",
+   "title": "Lei nº 16.708, de 21 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56226",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56226/lei_no_16.708-2025.pdf",
+     "sha256": "e3ed76a7986aa13f262f37eb678dcb99537af5e03fd1bdfbddcce46520f1b4ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16707",
+   "short": "Lei 16707/2025",
+   "title": "Lei nº 16.707, de 21 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56225",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56225/lei_no_16.707-2025.pdf",
+     "sha256": "30161466807a015da9957c923b1db93dfa4bde93d37842e0bd9ceafe5f1ebc4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16705",
+   "short": "Lei 16705/2025",
+   "title": "Lei nº 16.705, de 19 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56206",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56206/lei_no_16.705-2025.pdf",
+     "sha256": "979c258511e6bfb9da09cd1680ad42ddf837d2b124030666c87303ebd6039d77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16704",
+   "short": "Lei 16704/2025",
+   "title": "Lei nº 16.704, de 19 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56205",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56205/lei_no_16.704-2025.pdf",
+     "sha256": "cd8f1f1c8f69333b23f1b413b6175625c0802540363bf2245b3362f12de4dcb2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16703",
+   "short": "Lei 16703/2025",
+   "title": "Lei nº 16.703, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56195",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56195/lei_no_16.703-2025.pdf",
+     "sha256": "3ba115b6303cfe33d80da1ac54ee6a9dbce8c0d6289de199ecb4c645ffe20ede"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16702",
+   "short": "Lei 16702/2025",
+   "title": "Lei nº 16.702, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56194",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56194/lei_no_16.702-2025.pdf",
+     "sha256": "f257171dabec1212339903adda24460d5edbea17e79f54bb547deb4b2ff08e71"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16701",
+   "short": "Lei 16701/2025",
+   "title": "Lei nº 16.701, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56193",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56193/lei_no_16.701-2025.pdf",
+     "sha256": "d7f93be26b865760552941ee1c806351b34853dbe859d780c2493674dc6816ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16700",
+   "short": "Lei 16700/2025",
+   "title": "Lei nº 16.700, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56192",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56192/lei_no_16.700-2025.pdf",
+     "sha256": "42854701855cef604e66d8104f2467fdc3f967c04479a41006e40c01141384b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16699",
+   "short": "Lei 16699/2025",
+   "title": "Lei nº 16.699, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56191",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56191/lei_no_16.699-2025.pdf",
+     "sha256": "a3d582acb79d575231d65c9bc2b9cbcf35ba3c44d9d5d9ebd17f209f4fdeb21f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16698",
+   "short": "Lei 16698/2025",
+   "title": "Lei nº 16.698, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56190",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56190/lei_no_16.698-2025.pdf",
+     "sha256": "c7654174393e8cde7a2679f19c3408a1292bd5efbd49d3291ba9bf72ee048c88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16697",
+   "short": "Lei 16697/2025",
+   "title": "Lei nº 16.697, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56189",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56189/lei_no_16.697-2025.pdf",
+     "sha256": "cfb12c8ac5b5b3ab22399320bcb7196a529467ca27cad7f73c3818e91f34f77e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16696",
+   "short": "Lei 16696/2025",
+   "title": "Lei nº 16.696, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56188",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56188/lei_no_16.696-2025.pdf",
+     "sha256": "3b0b9838e005f9fbb24ef1fc9fa103e45c0e9f347a593102c48269df4de8ab47"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16695",
+   "short": "Lei 16695/2025",
+   "title": "Lei nº 16.695, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56187",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56187/lei_no_16.695-2025.pdf",
+     "sha256": "fe42447ca0978d09fdede3bec864d38e6840dbcf8a28d3a95ded91cfbf9be91e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00517",
+   "short": "LC 517/2025",
+   "title": "Lei Complementar nº 517, de 17 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56186",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56186/lei_complementar_no_517_-_2025.pdf",
+     "sha256": "843fbddb9d9555187375ec1e44ae7631fd05ebc7b6b7a804ee9cf27c37364f04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16694",
+   "short": "Lei 16694/2025",
+   "title": "Lei nº 16.694, de 10 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56154",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56154/lei_no_16.694-2025.pdf",
+     "sha256": "edb1596fa06226f2d2a23944d1f03ea75b5c196aa853087f27938932b5dc542b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16693",
+   "short": "Lei 16693/2025",
+   "title": "Lei nº 16.693, de 10 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56153",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56153/lei_no_16.693-2025.pdf",
+     "sha256": "73c85725c8f0ba3d5831290bd421dff5a90822eb657929ca92b88970116b760f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16692",
+   "short": "Lei 16692/2025",
+   "title": "Lei nº 16.692, de 10 de março de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56152",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56152/lei_no_16.692-2025.pdf",
+     "sha256": "da3415d1f6f0d747d33042b61fe2a0d90e49925e4d53d00beb2ea102f1d9f596"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16691",
+   "short": "Lei 16691/2025",
+   "title": "Lei nº 16.691, de 27 de fevereiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56133",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56133/lei_no_16.691-2025.pdf",
+     "sha256": "f25b4276c0218b27614160fa7ca3e0c7395f0a46613cf2e27a27b97d8cd2d4da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16690",
+   "short": "Lei 16690/2025",
+   "title": "Lei nº 16.690, de 27 de fevereiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56132",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56132/lei_no_16.690-2025.pdf",
+     "sha256": "e92ccc6cc18bc101b6fd3e557303db62a10609aeaf66983527dee0d205e88cd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16689",
+   "short": "Lei 16689/2025",
+   "title": "Lei nº 16.689, de 27 de fevereiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56131",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56131/lei_no_16.689-2025.pdf",
+     "sha256": "d2a5710c8a2b7055f985ff9c087fd05e456029250038a851ce0a93de79c5bdf5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16688",
+   "short": "Lei 16688/2025",
+   "title": "Lei nº 16.688, de 27 de fevereiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56130",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56130/lei_no_16.688-2025.pdf",
+     "sha256": "71655a2f52bc43db185e8bda72e660625dc0399a01270836448f97cb5ccc8aff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16686",
+   "short": "Lei 16686/2025",
+   "title": "Lei nº 16.686, de 27 de fevereiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56128",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56128/lei_no_16.686-2025.pdf",
+     "sha256": "0bd66944fa2906344681e5df23263e2bb788a6231f8d77ba363281a30a9c08fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16685",
+   "short": "Lei 16685/2025",
+   "title": "Lei nº 16.685, de 27 de fevereiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56127",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56127/lei_no_16.685-2025.pdf",
+     "sha256": "a470c11621be1f87eb77a5fac0baaa5e0e8d213ebd578e28740c8ac58503f96e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16684",
+   "short": "Lei 16684/2025",
+   "title": "Lei nº 16.684, de 27 de fevereiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56126",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56126/lei_no_16.684-2025.pdf",
+     "sha256": "278907c731a8c7087c08dc71828f505beff13391f63012e2c223bbfd94f5dd74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16683",
+   "short": "Lei 16683/2025",
+   "title": "Lei nº 16.683, de 18 de fevereiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/56097",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56097/lei_no_16.683-2025.pdf",
+     "sha256": "7b8570685957b5c3615ec88279698ca82f8019349678dc3341e10da267f8a1d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-16682",
+   "short": "Lei 16682/2025",
+   "title": "Lei nº 16.682, de 3 de janeiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55905",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/55905/lei_no_16.682-2025.pdf",
+     "sha256": "58788bec07f7a75bf7b8aa3eb521f82651617b73dbc3c964934013087638a49d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00514",
+   "short": "LC 514/2025",
+   "title": "Lei Complementar nº 514, de 3 de janeiro de 2025",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55902",
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/55902/lei_complementar_no_514_-_2024.pdf",
+     "sha256": "950597038b757579c6170497b39885e858598ca8a2fe5d269abb41ed9f6d2ec6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00513",
+   "short": "LC 513/2024",
+   "title": "Lei Complementar nº 513, de 31 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55896",
+   "versions": [
+    {
+     "from": "2025-01-02",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55896/lei_complementar_no_513_-_2024.pdf",
+     "sha256": "39b5fdcdefab0cb639339a6a76428463348acde8560ae60f451b1472f5b50d55"
+    }
+   ]
+  }
+ ]
+}

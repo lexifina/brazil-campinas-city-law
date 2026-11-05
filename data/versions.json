@@ -5070,6 +5070,426 @@
    ]
   },
   {
+   "slug": "lei-2024-16681",
+   "short": "Lei 16681/2024",
+   "title": "Lei nº 16.681, de 27 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55924",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 16,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55924/lei_no_16.681-2024.pdf",
+     "sha256": "087e1db2c6af65b0e8585d1e3047a1a8d86077bfe59fb1a1c89acd8fc43c38e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16679",
+   "short": "Lei 16679/2024",
+   "title": "Lei nº 16.679, de 18 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55873",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55873/lei_no_16.679-2024.pdf",
+     "sha256": "ee092e615cee1cddaeb9e55de3faa69c840f70848406cffb85de2b535e493055"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16676",
+   "short": "Lei 16676/2024",
+   "title": "Lei nº 16.676, de 11 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55854",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55854/lei_no_16.676-2024.pdf",
+     "sha256": "ed2b73b0d68cac5896e1e27611257899e7363a1ae9199c498651c1e789940ac8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16674",
+   "short": "Lei 16674/2024",
+   "title": "Lei nº 16.674, de 5 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55830",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55830/lei_no_16.674-2024.pdf",
+     "sha256": "e20c9a81d9b344209b0f32460ee42c52b480e10f130f11859ae756b152c0cea4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16673",
+   "short": "Lei 16673/2024",
+   "title": "Lei nº 16.673, de 5 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55829",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55829/lei_no_16.673-2024.pdf",
+     "sha256": "3f77fa4dfce28e75a3dc2ea10cc47cf980bcb501a2b49130a97052f8f903ff18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16672",
+   "short": "Lei 16672/2024",
+   "title": "Lei nº 16.672, de 5 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55828",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55828/lei_no_16.672-2024.pdf",
+     "sha256": "885b7eb2e1d872ce289c463b053d48a81f29bd2e40a25e9085850f8777d89454"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16670",
+   "short": "Lei 16670/2024",
+   "title": "Lei nº 16.670, de 5 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55826",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55826/lei_no_16.670-2024.pdf",
+     "sha256": "65e3792bed085633a0b215e824037ed4fe09f2e318f10cbea89c0d6b9f0f0634"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16669",
+   "short": "Lei 16669/2024",
+   "title": "Lei nº 16.669, de 2 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55803",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55803/lei_no_16.669-2024.pdf",
+     "sha256": "75efae097ed4e451955b7abdeb7152a0a5ad82a886a1bcced52c330471e796b3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00502",
+   "short": "LC 502/2024",
+   "title": "Lei Complementar nº 502, de 2 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55801",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55801/lei_complementar_no_502_-_03-12-2024.pdf",
+     "sha256": "ebca4bb9fe8db3d2888f9cbe8645479778946a3d00631dcbec0149d69f5e3dd6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16668",
+   "short": "Lei 16668/2024",
+   "title": "Lei nº 16.668, de 28 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55792",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55792/lei_no_16.668-2024.pdf",
+     "sha256": "9124c52f7bdceaf3d2f52ae68854aaa52ecace2bb944c2223b0cba238671c399"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16667",
+   "short": "Lei 16667/2024",
+   "title": "Lei nº 16.667, de 25 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55757",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55757/lei_no_16.667-2024.pdf",
+     "sha256": "383f40f90f82fff70eba6e849dcf1a7bc02db2f69324a0723566c26c90f70e44"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16666",
+   "short": "Lei 16666/2024",
+   "title": "Lei nº 16.666, de 19 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55739",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55739/lei_no_16.666-2024.pdf",
+     "sha256": "2e028fc992e7d85f0bec5e9aa2e3098edfcdceb5d06c7480c4b0f41f8e60be1e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16665",
+   "short": "Lei 16665/2024",
+   "title": "Lei nº 16.665, de 19 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55738",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55738/lei_no_16.665-2024.pdf",
+     "sha256": "0210ac3efcaecfc2c59aa7dcf5bcfec1208d15385e4de5809d7057e5007f9961"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16664",
+   "short": "Lei 16664/2024",
+   "title": "Lei nº 16.664, de 13 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55715",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55715/lei_no_16.664-2024.pdf",
+     "sha256": "6242a93d95e986da45a77e8d8f6f1c5e5454de6f5da204a52287d9d87d111f29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16663",
+   "short": "Lei 16663/2024",
+   "title": "Lei nº 16.663, de 13 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55714",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55714/lei_no_16.663-2024.pdf",
+     "sha256": "a76c179701a267c0b1cad1bad61831ea639ed20402dfe465e961710995adf897"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16660",
+   "short": "Lei 16660/2024",
+   "title": "Lei nº 16.660, de 7 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55677",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55677/lei_no_16.660-2024.pdf",
+     "sha256": "09e684597d6bca2e6de2ea2a3d29e82b91c5cd633ae6579c9279e0a14108a1e6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00500",
+   "short": "LC 500/2024",
+   "title": "Lei Complementar nº 500, de 7 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55676",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55676/lei_complementar_no_500_-_08-11-2024.pdf",
+     "sha256": "d8bdde22ccebd664dabaa7ed97d4503d513341b99e557505a393d1e8f316c967"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16659",
+   "short": "Lei 16659/2024",
+   "title": "Lei nº 16.659, de 1 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55660",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55660/lei_no_16.659-2024.pdf",
+     "sha256": "e9878002b93d7a2932df2f87c6beec1dc9250b2b5c5058227ca96fb2b9345cfd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16658",
+   "short": "Lei 16658/2024",
+   "title": "Lei nº 16.658, de 1 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55659",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55659/lei_no_16.658-2024.pdf",
+     "sha256": "d6ada07abe370b60c79deb9991747f9e77a1e23ef488ed2453222ea9b4b0b8bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16657",
+   "short": "Lei 16657/2024",
+   "title": "Lei nº 16.657, de 1 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55658",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55658/lei_no_16.657-2024.pdf",
+     "sha256": "fed99c88fd32e2710136b8a25ad9c5e0d686f6d3053b8538bd4f1e07b075d072"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16656",
+   "short": "Lei 16656/2024",
+   "title": "Lei nº 16.656, de 1 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55657",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55657/lei_no_16.656-2024.pdf",
+     "sha256": "d0e76552c4881971b56d9cc414bcb56e6d3528353847febbe273132f9423ec8d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16655",
+   "short": "Lei 16655/2024",
+   "title": "Lei nº 16.655, de 1 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55656",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55656/lei_no_16.655-2024.pdf",
+     "sha256": "a2484a800f4a47fb28404fc65ff9405454f39552463445bfe5dfb49533e8759e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16654",
+   "short": "Lei 16654/2024",
+   "title": "Lei nº 16.654, de 1 de novembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55655",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55655/lei_no_16.654-2024.pdf",
+     "sha256": "8008e02fd2a9c2afbff3ee14e53e81b3e08b34c707e8f6c92279c4a8c32fbd59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16653",
+   "short": "Lei 16653/2024",
+   "title": "Lei nº 16.653, de 17 de outubro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55608",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55608/lei_no_16.653-2024.pdf",
+     "sha256": "925ca13a8d028c296fcf062c9d3a752195199a139830e13b00f5a921ab7cb4ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16652",
+   "short": "Lei 16652/2024",
+   "title": "Lei nº 16.652, de 17 de outubro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55607",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55607/lei_no_16.652-2024.pdf",
+     "sha256": "1dbf856320994c2fe8602cfc4c5a4ac79557c943fd390f186efc19885e2d90cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16651",
+   "short": "Lei 16651/2024",
+   "title": "Lei nº 16.651, de 17 de outubro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55606",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55606/lei_no_16.651-2024.pdf",
+     "sha256": "59c08e79f5d2eb7d462228fb26e7381f286bd80b9fe4479e7fe20f9f32da498a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16650",
+   "short": "Lei 16650/2024",
+   "title": "Lei nº 16.650, de 17 de outubro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55605",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55605/lei_no_16.650-2024.pdf",
+     "sha256": "43cf821ba642d9802125305f7a43e859ae2a30956373dd5dc7d1f32c77798c4e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16648",
+   "short": "Lei 16648/2024",
+   "title": "Lei nº 16.648, de 17 de outubro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55603",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55603/lei_no_16.648-2024.pdf",
+     "sha256": "00129e72350fb4d6b7b47dfc2829b00f5976a5622026ae91e91f6e18806f7c4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16647",
+   "short": "Lei 16647/2024",
+   "title": "Lei nº 16.647, de 17 de outubro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55602",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55602/lei_no_16.647-2024.pdf",
+     "sha256": "c36b0aa1bfcd7c5d72cc8fba10e552301d87cd1450bcdc41cc91cb57539185f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16646",
+   "short": "Lei 16646/2024",
+   "title": "Lei nº 16.646, de 17 de outubro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55601",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55601/lei_no_16.646-2024.pdf",
+     "sha256": "20e372b3489efabd7529b1a12428012751615f415eccc1725b86988a13aae9d9"
+    }
+   ]
+  },
+  {
    "slug": "lei-2024-16680",
    "short": "Lei 16680/2024",
    "title": "Lei nº 16.680, de 23 de dezembro de 2024",

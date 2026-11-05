@@ -230,13 +230,15 @@ def main():
     reg = json.loads(REGISTRY.read_text(encoding='utf-8')) if REGISTRY.exists() else {}
     xp = HERE / 'letters-excluded.json'
     excluded = set(json.loads(xp.read_text(encoding='utf-8'))) if xp.exists() else set()
-    done = {i for name, ids in reg.items() if (HERE / 'corpus.d' / f'{name}.PUBLISH').exists() for i in ids}
+    done = {i for name, ids in reg.items() if (HERE / 'corpus.d' / f'{name}.PUBLISH').exists()
+            or (HERE / 'corpus.d' / f'{name}.EMPTY').exists() for i in ids}
     published_keys = set()
     for name in reg:
         q = HERE / 'corpus.d' / f'{name}.json'
         if (HERE / 'corpus.d' / f'{name}.PUBLISH').exists() and q.exists():
             published_keys |= {x['slug'] for x in json.loads(q.read_text(encoding='utf-8'))['acts']}
-    for name in [k for k in reg if not (HERE / 'corpus.d' / f'{k}.PUBLISH').exists()]:
+    for name in [k for k in reg if not (HERE / 'corpus.d' / f'{k}.PUBLISH').exists()
+                 and not (HERE / 'corpus.d' / f'{k}.EMPTY').exists()]:
         reg.pop(name)
         (HERE / 'corpus.d' / f'{name}.json').unlink(missing_ok=True)
     rest = [r for r in idx['records'] if r['id'] not in done]
@@ -264,7 +266,9 @@ def main():
             laws.update(l)
         name = f'30-leis-{n0 + i // a.part_size + 1:03d}'
         reg[name] = [r['id'] for r in chunk]
-        if not acts:
+        if not acts:  # sapl-runner (11-05): an empty window is final (every file fetched or not served)
+            (HERE / 'corpus.d' / f'{name}.EMPTY').write_text(json.dumps(reg[name]) + '\n', encoding='utf-8',
+                                                               newline='\n')
             continue  # nothing usable in this window: the registry still records it, no part file
         c = {'country': COUNTRY,
              'sources': [{'name': f"Câmara Municipal de {CONFIG['city']}, SAPL: records of the municipal laws and "

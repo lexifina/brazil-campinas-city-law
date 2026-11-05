@@ -5068,6 +5068,48 @@
      "sha256": "39b5fdcdefab0cb639339a6a76428463348acde8560ae60f451b1472f5b50d55"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-16680",
+   "short": "Lei 16680/2024",
+   "title": "Lei nº 16.680, de 23 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55917",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55917/lei_no_16.680-2024.pdf",
+     "sha256": "3a10c527c6c00774701a2b52ffe9ce888a3e6233b4b5fa9ebd61b55f222b0de9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00509",
+   "short": "LC 509/2024",
+   "title": "Lei Complementar nº 509, de 20 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55900",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 37,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55900/lei_complementar_no_509_-_2024.pdf",
+     "sha256": "9337b48aca0a4d2314e790a6f78e45ade4d74dc5c36c460fe3cf7e176301f658"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00507",
+   "short": "LC 507/2024",
+   "title": "Lei Complementar nº 507, de 18 de dezembro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55876",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55876/lei_complementar_no_507_-_19-12-2024.pdf",
+     "sha256": "8064f8eb1cfdfdd81da871a2a8a78c196197c6382cca5991bcea0b08170bd568"
+    }
+   ]
   }
  ]
 }

@@ -33,7 +33,7 @@ REGISTRY = HERE / 'laws-parts.json'
 MONTHS = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro',
           'novembro', 'dezembro']
 LONG = re.compile(r'\b(\d{1,2})\s*[º°o]?\s+de\s+(' + '|'.join(MONTHS) + r')\s+de\s+(\d{4})', re.I)
-CLOSING = re.compile(LONG.pattern + r'\s*\.?\s*$', re.I)
+CLOSING = re.compile(r'^Campinas,\s*' + LONG.pattern + r'\s*\.?\s*$', re.I)
 HEAD = re.compile(r'^L\s?E\s?I\s+(COMPLEMENTAR\s+)?(?:ORDIN[ÁA]RIA\s+)?(?:MUNICIPAL\s+)?(?:N[º°ºo.]*|N[ÚU]MERO)\s*[:.]?\s*([\d.]+)', re.I)
 ART = re.compile(r'^Art(?:igo)?\.?\s*\d')
 STARTS = re.compile(r'^(?:Art\.|Art\s+\d|Artigo\s+\d|§|Par[áa]grafo|[IVXLC]+\s*[-–.)]|[a-z]\)|T[ÍI]TULO|CAP[ÍI]TULO|'
@@ -89,11 +89,17 @@ def file_url(r):
     return u.replace('http://', 'https://', 1)
 
 
+def gone(url):
+    """sapl-runner (11-05): the file is not served: a remembered 404/410, or 3 time-outs (<raw>.skip)."""
+    p = RAW / sha(url.encode())
+    return Path(str(p) + '.404').exists() or Path(str(p) + '.skip').exists()
+
+
 def furniture(pages):
-    """Normalised lines (digits as #) seen among the first or last 4 lines of two or more pages."""
+    """Normalised lines (digits as #) in repeated six-line headers or four-line footers."""
     seen = {}
     for ls in pages:
-        for l in set(ls[:4] + ls[-4:]):
+        for l in set(ls[:6] + ls[-4:]):
             k = re.sub(r'\d', '#', l)
             seen[k] = seen.get(k, 0) + 1
     return {k for k, n in seen.items() if n >= 2} if len(pages) >= 2 else set()
@@ -149,7 +155,7 @@ def law_act(r, kind, today):
         return None, {}, 'no file in SAPL'
     p = RAW / sha(url.encode())
     if not p.exists():
-        return None, {}, 'not fetched'
+        return None, {}, 'file not served (404 or repeated time-outs)' if gone(url) else 'not fetched'
     b = p.read_bytes()
     if b[:5] != b'%PDF-':
         return None, {}, 'not a PDF'
@@ -234,7 +240,7 @@ def main():
         reg.pop(name)
         (HERE / 'corpus.d' / f'{name}.json').unlink(missing_ok=True)
     rest = [r for r in idx['records'] if r['id'] not in done]
-    if any(file_url(r) and not (RAW / sha(file_url(r).encode())).exists() for r in rest):
+    if any(file_url(r) and not (RAW / sha(file_url(r).encode())).exists() and not gone(file_url(r)) for r in rest):
         print('not every file fetched yet: no part written')
         return
     n0 = max([int(k.rsplit('-', 1)[1]) for k in reg] or [0])

@@ -9,7 +9,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions |
 | --- | --- | ---: |
 | `lei-organica/` | Lei Orgânica do Município de Campinas, de 30 de março de 1990 | 1 (text in force as compiled) |
-| `lei-*/`, `lc-*/` | Municipal laws (Leis and Leis Complementares), newest first | one each, as enacted (361) |
+| `lei-*/`, `lc-*/` | Municipal laws (Leis and Leis Complementares), newest first | one each, as enacted (364) |
 
 **The Lei Orgânica.** The Lei Orgânica is given only as the Câmara's compiled edition ("Atualizada até a Emenda nº 55, de 6 de maio de 2025"), from the PDF its SAPL holds, dated 6 May 2025 and committed as the publisher's text (the oldest version available). The text as promulgated on 30 March 1990 and the wordings the amendments replaced are not reconstructed.
 

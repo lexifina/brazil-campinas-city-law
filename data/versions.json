@@ -9592,6 +9592,412 @@
    ]
   },
   {
+   "slug": "lei-2022-16283",
+   "short": "Lei 16283/2022",
+   "title": "Lei nº 16.283, de 14 de julho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51955",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51955/51955_texto_integral.pdf",
+     "sha256": "49af685c08f84be16950556008c5259e251aa68c3e9854b93701fd8a185f07bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16282",
+   "short": "Lei 16282/2022",
+   "title": "Lei nº 16.282, de 14 de julho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51954",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51954/51954_texto_integral.pdf",
+     "sha256": "808324194437386cae0eddea33cccd319c9c2d802590453efcd101481d295dcf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16280",
+   "short": "Lei 16280/2022",
+   "title": "Lei nº 16.280, de 6 de julho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51908",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51908/51908_texto_integral.pdf",
+     "sha256": "f78b8168812b3245f1a6de9e1d285cc545c9364c531055a5fd1be2336e3639ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16279",
+   "short": "Lei 16279/2022",
+   "title": "Lei nº 16.279, de 6 de julho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51907",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51907/51907_texto_integral.pdf",
+     "sha256": "3862742d06a0a49e3be9e902ed57b2864850b6224823e43e00748bca608d0119"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16277",
+   "short": "Lei 16277/2022",
+   "title": "Lei nº 16.277, de 4 de julho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51896",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51896/51896_texto_integral.pdf",
+     "sha256": "fdecd4b69240d5b0df400cc958dffc19cefc796de221d7bbc590ed5b8fe2bb1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16276",
+   "short": "Lei 16276/2022",
+   "title": "Lei nº 16.276, de 29 de junho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51875",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51875/51875_texto_integral.pdf",
+     "sha256": "82b240ba53ed453aaba813a88bb7b2a1ffa2596d8d2463a5627b1dcd66a11a21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16275",
+   "short": "Lei 16275/2022",
+   "title": "Lei nº 16.275, de 29 de junho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51874",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51874/51874_texto_integral.pdf",
+     "sha256": "b15a952d459e5ba4a708f6ef2016a720cf2c4968b4613ff2fe0567e58853bb14"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00359",
+   "short": "LC 359/2022",
+   "title": "Lei Complementar nº 359, de 27 de junho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51853",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51853/51853_texto_integral.pdf",
+     "sha256": "0ae4a5a70f68f71113d1d33b28d7b5b5718f77543163cfa289ae20e87c2f3d50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16273",
+   "short": "Lei 16273/2022",
+   "title": "Lei nº 16.273, de 14 de junho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51807",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51807/51807_texto_integral.pdf",
+     "sha256": "a35b460635bd5c1946b17405a965c667f3b0c32b3ec38d35515af8ff3761eccf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16272",
+   "short": "Lei 16272/2022",
+   "title": "Lei nº 16.272, de 8 de junho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51780",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51780/51780_texto_integral.pdf",
+     "sha256": "61c86dfd28d655dbc8b6c3d14dac01e33ee0adea23d33af707c071032069b5ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16271",
+   "short": "Lei 16271/2022",
+   "title": "Lei nº 16.271, de 7 de junho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51770",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51770/51770_texto_integral.pdf",
+     "sha256": "06656532b9e3d04193589294326f529fd1f574a82caa723f56ae46acf2e7f3f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16269",
+   "short": "Lei 16269/2022",
+   "title": "Lei nº 16.269, de 6 de junho de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51766",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51766/51766_texto_integral.pdf",
+     "sha256": "6aeb19094e871e24bc9fcc68f9ec2b38d10356fe30e69192506eb6240a847695"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16267",
+   "short": "Lei 16267/2022",
+   "title": "Lei nº 16.267, de 27 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51747",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51747/51747_texto_integral.pdf",
+     "sha256": "8292c4d040dfb9a64cbdc13884d940917615571790f966bafd49be4aecb47d54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16266",
+   "short": "Lei 16266/2022",
+   "title": "Lei nº 16.266, de 27 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51746",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51746/51746_texto_integral.pdf",
+     "sha256": "9f7ce1d6edb3a99a8793840cf6f19959782a89ec2d4381499d568a6f590a884c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16263",
+   "short": "Lei 16263/2022",
+   "title": "Lei nº 16.263, de 27 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51743",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51743/51743_texto_integral.pdf",
+     "sha256": "3d3a0e2397f2219c9d05ffe347a5937a5e7f047bfa2feb4d136957eca1922cbc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16262",
+   "short": "Lei 16262/2022",
+   "title": "Lei nº 16.262, de 26 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51732",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51732/51732_texto_integral.pdf",
+     "sha256": "b40ca11e1f93c95261123bb6330ccbf5d0e08269e45a56616462d0d0b72a1068"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16261",
+   "short": "Lei 16261/2022",
+   "title": "Lei nº 16.261, de 18 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51707",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51707/51707_texto_integral.pdf",
+     "sha256": "cf5e7841f6a358703f84798a52088436672480b206740c18375a4649eb74eec9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00354",
+   "short": "LC 354/2022",
+   "title": "Lei Complementar nº 354, de 18 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51704",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51704/51704_texto_integral.pdf",
+     "sha256": "a1c900f5d0f5c1c96597d0c0b786e17bf8431ad941bf1e11c0bcc275531f9887"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16258",
+   "short": "Lei 16258/2022",
+   "title": "Lei nº 16.258, de 12 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51692",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51692/51692_texto_integral.pdf",
+     "sha256": "ccb63419e2e5a0fbf539971074b4f5ec19edb2b4bb86c3a8259a775539e7f753"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16257",
+   "short": "Lei 16257/2022",
+   "title": "Lei nº 16.257, de 12 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51691",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51691/51691_texto_integral.pdf",
+     "sha256": "7fa0d44326d1f8955ed2c188d0a7c71d1888c62af6667808eeb24e2d8f88755a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16256",
+   "short": "Lei 16256/2022",
+   "title": "Lei nº 16.256, de 12 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51690",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51690/51690_texto_integral.pdf",
+     "sha256": "b04c831e9fe2323a7b9960324a43ec1febb44617ed0158a77aacb35d0c261ece"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16255",
+   "short": "Lei 16255/2022",
+   "title": "Lei nº 16.255, de 12 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51689",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51689/lei_no_16.255_-_12-05-2022.pdf",
+     "sha256": "7a6244ede98768691da1f522efadf81dd92a0a874c50f65aa530e55d6e3b3ca9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16254",
+   "short": "Lei 16254/2022",
+   "title": "Lei nº 16.254, de 12 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51688",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51688/51688_texto_integral.pdf",
+     "sha256": "5491223d4f8491e910fef3db83e29200b413dd555bf7d1dfff9ec772569df24d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16253",
+   "short": "Lei 16253/2022",
+   "title": "Lei nº 16.253, de 12 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51687",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51687/51687_texto_integral.pdf",
+     "sha256": "e759334ecaec87c3d2e01cafbe0da817f4b036404c6dcebeb19abaf4a1da39fc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00353",
+   "short": "LC 353/2022",
+   "title": "Lei Complementar nº 353, de 12 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51686",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51686/51686_texto_integral.pdf",
+     "sha256": "999d05cda98052ceb6fb268dc3222f365e13232161b4290b831f1691be1f3447"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16252",
+   "short": "Lei 16252/2022",
+   "title": "Lei nº 16.252, de 5 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51658",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51658/51658_texto_integral.pdf",
+     "sha256": "f618c3a1473fbcbedb6d07d52bbb1e16214f08298a6d75052ffc15d8f060eb77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16251",
+   "short": "Lei 16251/2022",
+   "title": "Lei nº 16.251, de 5 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51657",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51657/51657_texto_integral.pdf",
+     "sha256": "2cbb319cf20a827430a8f2eb5f543c2a0e6b38c73291ffe9e12550d363a42a3a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16250",
+   "short": "Lei 16250/2022",
+   "title": "Lei nº 16.250, de 5 de maio de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51656",
+   "versions": [
+    {
+     "from": "2022-05-06",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51656/51656_texto_integral.pdf",
+     "sha256": "e7115523172fb321c9d433898b0811db4c9ec15993e71d1406d17a8c070f36a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-16247",
+   "short": "Lei 16247/2022",
+   "title": "Lei nº 16.247, de 29 de abril de 2022",
+   "url": "https://sapl.campinas.sp.leg.br/norma/51641",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51641/51641_texto_integral.pdf",
+     "sha256": "295796b6655492f1792308fe6f47f5b557b4519a06431fb8eb3608a2e360a064"
+    }
+   ]
+  },
+  {
    "slug": "lei-2024-16680",
    "short": "Lei 16680/2024",
    "title": "Lei nº 16.680, de 23 de dezembro de 2024",

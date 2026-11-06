@@ -8542,6 +8542,328 @@
    ]
   },
   {
+   "slug": "lei-2023-16382",
+   "short": "Lei 16382/2023",
+   "title": "Lei nº 16.382, de 12 de maio de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53238",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53238/53238_texto_integral.pdf",
+     "sha256": "cfe49b44984677149275993118469639b405a2a584f2967cc5c91771133ab3c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16380",
+   "short": "Lei 16380/2023",
+   "title": "Lei nº 16.380, de 4 de maio de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53214",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53214/53214_texto_integral.pdf",
+     "sha256": "dcf8cdb2fe3152d57d7bc754d18e4c359e895ee13e703f2de9abd9444258f23c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16379",
+   "short": "Lei 16379/2023",
+   "title": "Lei nº 16.379, de 2 de maio de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53194",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53194/53194_texto_integral.pdf",
+     "sha256": "709714fd887453a22e63f35f9a65618cf06b4ecd1bc6780a4a3dfd96de992873"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00406",
+   "short": "LC 406/2023",
+   "title": "Lei Complementar nº 406, de 25 de abril de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53163",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53163/53163_texto_integral.pdf",
+     "sha256": "91960591454f56399be3ab2c1adf82a860fae5d9ee0fcc3c0c219feaba5d3593"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16375",
+   "short": "Lei 16375/2023",
+   "title": "Lei nº 16.375, de 24 de abril de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53161",
+   "versions": [
+    {
+     "from": "2023-04-25",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53161/53161_texto_integral.pdf",
+     "sha256": "10bdc162392aa602f7fc4e4ac5ee2e87bed660bf80d78b0a680b6967e3363e50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16373",
+   "short": "Lei 16373/2023",
+   "title": "Lei nº 16.373, de 14 de abril de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53147",
+   "versions": [
+    {
+     "from": "2023-04-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53147/53147_texto_integral.pdf",
+     "sha256": "d2adce7bfdd4e42de5bc01eed97a5fd1ffdc5495783e9cbcb5390ae3dee07c6a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16371",
+   "short": "Lei 16371/2023",
+   "title": "Lei nº 16.371, de 14 de abril de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53145",
+   "versions": [
+    {
+     "from": "2023-04-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53145/53145_texto_integral.pdf",
+     "sha256": "d0e13578eafd44736545c4fb30a5ae2a3c877360ee2822a0671e7e4b82a90238"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16370",
+   "short": "Lei 16370/2023",
+   "title": "Lei nº 16.370, de 12 de abril de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53124",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53124/53124_texto_integral.pdf",
+     "sha256": "401c1f858425d0a8362dba05cbc9dcc0d44ed84e0767519668cc77140fa350bc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00404",
+   "short": "LC 404/2023",
+   "title": "Lei Complementar nº 404, de 12 de abril de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53123",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53123/53123_texto_integral.pdf",
+     "sha256": "589858949c7af6949d8f93f630bf35e982baa88ca97834e2f99444dbd48b89df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16367",
+   "short": "Lei 16367/2023",
+   "title": "Lei nº 16.367, de 6 de abril de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53097",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53097/lei_no_16.367_-_06-04-2023.pdf",
+     "sha256": "28c443bcebd2b1f43468759f727a2f1c6ea3b6841c86dad95e576711aac4cb01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16366",
+   "short": "Lei 16366/2023",
+   "title": "Lei nº 16.366, de 6 de abril de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53096",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53096/53096_texto_integral.pdf",
+     "sha256": "d9e7db19eca50f72c5c51617f91780f148fb271ae0601cdacbb4f2de8c64359b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16365",
+   "short": "Lei 16365/2023",
+   "title": "Lei nº 16.365, de 29 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53069",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53069/53069_texto_integral.pdf",
+     "sha256": "f3a71a1110170873eeaf2eeafe034c546d78865156e4d3ef103cd9d6cafbbf78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16364",
+   "short": "Lei 16364/2023",
+   "title": "Lei nº 16.364, de 28 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53068",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53068/53068_texto_integral.pdf",
+     "sha256": "66675d7f4433df1b54c9be8807525f65628248feb745906208d42411fa3463d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16363",
+   "short": "Lei 16363/2023",
+   "title": "Lei nº 16.363, de 16 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53026",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53026/53026_texto_integral.pdf",
+     "sha256": "8a4964decd1850e0285d08e9297080d57e570f58ae79a1fb05dc15acc1781816"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16361",
+   "short": "Lei 16361/2023",
+   "title": "Lei nº 16.361, de 15 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53021",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53021/53021_texto_integral.pdf",
+     "sha256": "bf8a0f05d3c2b9a0abf9d23fb115d159d71540db0009f63a3de1188b5a41b9f3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16360",
+   "short": "Lei 16360/2023",
+   "title": "Lei nº 16.360, de 14 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53015",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53015/53015_texto_integral.pdf",
+     "sha256": "495c23ec0df7e7ae682808a6867def0f3f96f15fad62ab10b365d096ea5ba2a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16359",
+   "short": "Lei 16359/2023",
+   "title": "Lei nº 16.359, de 14 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/53014",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53014/53014_texto_integral.pdf",
+     "sha256": "514cb2b40ae70208b9d99553c5138424a4b22cae2cefc05f69766b4da6dd2922"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16357",
+   "short": "Lei 16357/2023",
+   "title": "Lei nº 16.357, de 3 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/52986",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/52986/52986_texto_integral.pdf",
+     "sha256": "570479ea6cb726922e842a349634e151314b0e2b35b683540e73d7ca2516ee99"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16356",
+   "short": "Lei 16356/2023",
+   "title": "Lei nº 16.356, de 3 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/52985",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/52985/52985_texto_integral.pdf",
+     "sha256": "ab4b08c6736fb42e05db7f5b3118b85b19e926cefbf9a9417ffc4d9842fd512d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16355",
+   "short": "Lei 16355/2023",
+   "title": "Lei nº 16.355, de 3 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/52984",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/52984/52984_texto_integral.pdf",
+     "sha256": "357a722acad0d22655ad27cc9e94f11d5a462e71086b5dc4beda99ef6e17251d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16354",
+   "short": "Lei 16354/2023",
+   "title": "Lei nº 16.354, de 3 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/52983",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/52983/52983_texto_integral.pdf",
+     "sha256": "2bf180539ca742516cb67af869b34f29ce1c41f89a3261279e88aa71e5197391"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16353",
+   "short": "Lei 16353/2023",
+   "title": "Lei nº 16.353, de 3 de março de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/52982",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/52982/lei_no_16.353_-_2023.pdf",
+     "sha256": "7e677725d768dc580e25279feef62c6d2afd38e47161f72357994bc27cc22859"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00398",
+   "short": "LC 398/2023",
+   "title": "Lei Complementar nº 398, de 22 de fevereiro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/52942",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/52942/52942_texto_integral.pdf",
+     "sha256": "24acbc39b76baeb67b5f4b1a03c3184f46d04bb6b7d7c00235f701d9207c06b2"
+    }
+   ]
+  },
+  {
    "slug": "lei-2024-16680",
    "short": "Lei 16680/2024",
    "title": "Lei nº 16.680, de 23 de dezembro de 2024",

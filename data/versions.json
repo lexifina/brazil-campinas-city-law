@@ -11776,6 +11776,580 @@
    ]
   },
   {
+   "slug": "lei-2021-16091",
+   "short": "Lei 16091/2021",
+   "title": "Lei nº 16.091, de 1 de junho de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50206",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50206/50206_texto_integral.pdf",
+     "sha256": "be42666da5b6fc6180f9d36258744436ea5bb5b3550a6ff67b95679a334f9cf7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16089",
+   "short": "Lei 16089/2021",
+   "title": "Lei nº 16.089, de 20 de maio de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50177",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50177/50177_texto_integral.pdf",
+     "sha256": "8ba9e6e936bf46d6f4ddb293d42a44ab594f15cffdf9e3f9b6eafcc76047da26"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16088",
+   "short": "Lei 16088/2021",
+   "title": "Lei nº 16.088, de 20 de maio de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50175",
+   "versions": [
+    {
+     "from": "2021-05-21",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50175/50175_texto_integral.pdf",
+     "sha256": "6455698884329fb2186580970af3014aad79b54a98c55e72dcf9f6440e2fdf04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16086",
+   "short": "Lei 16086/2021",
+   "title": "Lei nº 16.086, de 14 de maio de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50150",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50150/50150_texto_integral.pdf",
+     "sha256": "1a71536fac53caf8fc854dacb3012feb6d7bcfca5954fe2af87fc4e078033747"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16085",
+   "short": "Lei 16085/2021",
+   "title": "Lei nº 16.085, de 14 de maio de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50151",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50151/50151_texto_integral.pdf",
+     "sha256": "cab9c2d2bf84e51c25206a64b769668639c16856d6c72955615f82cac207e41a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00303",
+   "short": "LC 303/2021",
+   "title": "Lei Complementar nº 303, de 11 de maio de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50137",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50137/50137_texto_integral.pdf",
+     "sha256": "daca193bb12e9322cf14b6f881720df35400ab74b08b15a4e8c01f049fef98b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16083",
+   "short": "Lei 16083/2021",
+   "title": "Lei nº 16.083, de 27 de abril de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50086",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50086/50086_texto_integral.pdf",
+     "sha256": "57042301ef62a4f72a37ac5b1faec446170b96ad33fdf15139dd05c744d182ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16081",
+   "short": "Lei 16081/2021",
+   "title": "Lei nº 16.081, de 27 de abril de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50082",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50082/50082_texto_integral.pdf",
+     "sha256": "937521a22ebb99ea9fd919bfbe395a76764873ee52c28511d0af80938073fea5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16080",
+   "short": "Lei 16080/2021",
+   "title": "Lei nº 16.080, de 22 de abril de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50067",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50067/50067_texto_integral.pdf",
+     "sha256": "070f790ef4ce2496690960a63f7bd88ab8b3b22042ff966b8dffa2973f7e3dc9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16079",
+   "short": "Lei 16079/2021",
+   "title": "Lei nº 16.079, de 22 de abril de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50066",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50066/50066_texto_integral.pdf",
+     "sha256": "ad218a6d309d09e9da25103f4e8408ae5408e4050a3243937674a5aacfc397a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16078",
+   "short": "Lei 16078/2021",
+   "title": "Lei nº 16.078, de 22 de abril de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50065",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50065/50065_texto_integral.pdf",
+     "sha256": "2939d9ccf4130ee366a0bb829fad8280af1b47a5a00617fa7e587bda67a7935f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16077",
+   "short": "Lei 16077/2021",
+   "title": "Lei nº 16.077, de 22 de abril de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50064",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50064/50064_texto_integral.pdf",
+     "sha256": "2f728d20d13305bb0794ae27027421bb8745b4bda3cad866bbe7d460720bd556"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16076",
+   "short": "Lei 16076/2021",
+   "title": "Lei nº 16.076, de 5 de abril de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50018",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50018/50018_texto_integral.pdf",
+     "sha256": "e4b4f93f34e3dee5d901cb51c852cb1ee2a36070e42e29d222bc65ff87ea8f38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16075",
+   "short": "Lei 16075/2021",
+   "title": "Lei nº 16.075, de 5 de abril de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/50017",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50017/50017_texto_integral.pdf",
+     "sha256": "99cef4c60df9495364dea54bc6947ea8866ad4f30c408a39d3941ca2d615f05f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00300",
+   "short": "LC 300/2021",
+   "title": "Lei Complementar nº 300, de 16 de março de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49952",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/49952/49952_texto_integral.pdf",
+     "sha256": "38e4240e95d76a3581c64a669ec759addc85adbe4733ff5a109151d97e0916da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16072",
+   "short": "Lei 16072/2021",
+   "title": "Lei nº 16.072, de 12 de março de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49944",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 7,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/49944/49944_texto_integral.pdf",
+     "sha256": "33a7b0fdc3ba1f1cb6427721c2c65ae579df363b4f2c0d93287ed7c1e03750cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16071",
+   "short": "Lei 16071/2021",
+   "title": "Lei nº 16.071, de 5 de março de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49915",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/49915/49915_texto_integral.pdf",
+     "sha256": "7092d1e4c9c9f9cc89e1a2f1df749375501b534416b6791082e175d56653295d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-16070",
+   "short": "Lei 16070/2021",
+   "title": "Lei nº 16.070, de 26 de fevereiro de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49876",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/49876/49876_texto_integral.pdf",
+     "sha256": "9a97ba13a0644ab654d680d5728235be1504c14a3b8fc70cc39d32d32eeca99e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00299",
+   "short": "LC 299/2021",
+   "title": "Lei Complementar nº 299, de 26 de fevereiro de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49878",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/49878/49878_texto_integral.pdf",
+     "sha256": "4955eb11e315251c6b7ce94ea85b25d3e55f01f2bf615e07402e5f97b94a9bf0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00298",
+   "short": "LC 298/2021",
+   "title": "Lei Complementar nº 298, de 7 de janeiro de 2021",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49685",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/49685/49685_texto_integral.pdf",
+     "sha256": "20123d7a20a31bba8fd15250108d07ffbf21dbadac7abaf642dd2eff74ef06be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16069",
+   "short": "Lei 16069/2020",
+   "title": "Lei nº 16.069, de 18 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49637",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49637/49637_texto_integral.pdf",
+     "sha256": "a5f28b34c52e8a427831ca461fbd82ac6bccfa4dc4c203c5b078e73abd82c45e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16067",
+   "short": "Lei 16067/2020",
+   "title": "Lei nº 16.067, de 18 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49635",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49635/49635_texto_integral.pdf",
+     "sha256": "fb62e60fe03e7da50e99ef13477d99c68d2fec581b14249b112771178c4df07d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16065",
+   "short": "Lei 16065/2020",
+   "title": "Lei nº 16.065, de 14 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49605",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49605/49605_texto_integral.pdf",
+     "sha256": "7d7a4b9647c675b1c3e4dbc1369eec04ea0f4b008655cb42dbcfda4d9ee10329"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16064",
+   "short": "Lei 16064/2020",
+   "title": "Lei nº 16.064, de 14 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49604",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49604/49604_texto_integral.pdf",
+     "sha256": "2c3c2bb4fb3d71bc4b707b888c947cf81dc059d9ecc1c3b5adca82dbc100aa11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16063",
+   "short": "Lei 16063/2020",
+   "title": "Lei nº 16.063, de 14 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49603",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49603/49603_texto_integral.pdf",
+     "sha256": "3fbbe029e7e8a76d423069787baeeb13c80fb827bc61d44c3f2eee0cb5c1fe64"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16061",
+   "short": "Lei 16061/2020",
+   "title": "Lei nº 16.061, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49572",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49572/49572_texto_integral.pdf",
+     "sha256": "dae427831876c0f5270a8e85bc92934043d789d7264f0215613b509223aa17f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16059",
+   "short": "Lei 16059/2020",
+   "title": "Lei nº 16.059, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49573",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49573/49573_texto_integral.pdf",
+     "sha256": "0acedadefe93faa850624643e578ecc4f00df2a3e41d5eb890e93e0fb0186140"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16058",
+   "short": "Lei 16058/2020",
+   "title": "Lei nº 16.058, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49575",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49575/49575_texto_integral.pdf",
+     "sha256": "cf3845a307e60360630ac22ff19725164142f8d52b62264365d58742f1ad04ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16057",
+   "short": "Lei 16057/2020",
+   "title": "Lei nº 16.057, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49571",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49571/49571_texto_integral.pdf",
+     "sha256": "20ff78b76dbb649992ef97935bfc4fa686c5ed9ef959e3bcffab64ead2de7acf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16056",
+   "short": "Lei 16056/2020",
+   "title": "Lei nº 16.056, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49562",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49562/49562_texto_integral.pdf",
+     "sha256": "ea710d46792c3bb1a1fbb26a1f56ad021de4a6294fc1f73d3cf8c6652ff72409"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16055",
+   "short": "Lei 16055/2020",
+   "title": "Lei nº 16.055, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49559",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49559/49559_texto_integral.pdf",
+     "sha256": "21b512ad67176ca8e936cb006c822d5917650b196c005764f4070fb5797b92a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16054",
+   "short": "Lei 16054/2020",
+   "title": "Lei nº 16.054, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49558",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49558/49558_texto_integral.pdf",
+     "sha256": "bcee04510902d8ad49179009539b695f5b86cb128e097d25a9ba5563cdc14fec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16053",
+   "short": "Lei 16053/2020",
+   "title": "Lei nº 16.053, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49557",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49557/49557_texto_integral.pdf",
+     "sha256": "00bd7f517fc29dd157686462ffb2617744f8d8c89ad0803994b84941450654b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16052",
+   "short": "Lei 16052/2020",
+   "title": "Lei nº 16.052, de 3 de dezembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49556",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49556/49556_texto_integral.pdf",
+     "sha256": "e3b0394b61c2334e7f22d0d8bdbb7351f89b46c3d6eda6397465aeb0a31d7195"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16051",
+   "short": "Lei 16051/2020",
+   "title": "Lei nº 16.051, de 30 de novembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49530",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49530/49530_texto_integral.pdf",
+     "sha256": "016acd94b64324770ae3592117e47226f3cb39b81a900970cfd5f85a37e7d022"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16050",
+   "short": "Lei 16050/2020",
+   "title": "Lei nº 16.050, de 26 de novembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49502",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49502/49502_texto_integral.pdf",
+     "sha256": "4e3ed1f4f7ddcadb61dc35379e8e1c6907c5255be9531beb2fdf3b99eec5ddc8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16049",
+   "short": "Lei 16049/2020",
+   "title": "Lei nº 16.049, de 26 de novembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49501",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49501/49501_texto_integral.pdf",
+     "sha256": "77574b383d97b9116d6b5df552fcb95c5c57553b1ce226d4ac560864113ceb05"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16048",
+   "short": "Lei 16048/2020",
+   "title": "Lei nº 16.048, de 26 de novembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49500",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49500/49500_texto_integral.pdf",
+     "sha256": "4d288942120d7342b13d1d7c24f92d5f9976243b3e0ebb78927016d88acd9544"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16047",
+   "short": "Lei 16047/2020",
+   "title": "Lei nº 16.047, de 26 de novembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49499",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49499/49499_texto_integral.pdf",
+     "sha256": "b17dafa03cb27db2513095e964cbb40bff6a78b70c011a10c86d703857e2f50e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16046",
+   "short": "Lei 16046/2020",
+   "title": "Lei nº 16.046, de 26 de novembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49498",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49498/49498_texto_integral.pdf",
+     "sha256": "b14e6fa7c7636ae47a6c1fe38c7055511e59c08167bfe784fb5e1a4a1d6ea769"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-16045",
+   "short": "Lei 16045/2020",
+   "title": "Lei nº 16.045, de 26 de novembro de 2020",
+   "url": "https://sapl.campinas.sp.leg.br/norma/49497",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49497/49497_texto_integral.pdf",
+     "sha256": "e1fd5f6a45b9eb42cdf82767126dc3d26012e3028528a4b9e04dfddb87fcde28"
+    }
+   ]
+  },
+  {
    "slug": "lei-2024-16680",
    "short": "Lei 16680/2024",
    "title": "Lei nº 16.680, de 23 de dezembro de 2024",

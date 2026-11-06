@@ -6778,6 +6778,426 @@
    ]
   },
   {
+   "slug": "lei-2024-16535",
+   "short": "Lei 16535/2024",
+   "title": "Lei nº 16.535, de 28 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54563",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54563/lei__no_16.535_-_28-03-2024.pdf",
+     "sha256": "ac40ce084cc0c8ac3728918686216110a7f3daa06f53aa949e1df2dd1c74e767"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16534",
+   "short": "Lei 16534/2024",
+   "title": "Lei nº 16.534, de 28 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54562",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54562/lei__no_16.534_-_28-03-2024.pdf",
+     "sha256": "d74017dca81fb62d3c964cc120ed21342abab06af7735e12fb7902d251f3d029"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16532",
+   "short": "Lei 16532/2024",
+   "title": "Lei nº 16.532, de 22 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54540",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54540/lei__no_16.532_-_22-03-2024.pdf",
+     "sha256": "f137248644d0846dbeceb4fb7318c6969d1f3052b40fa094fe41373f4a8db950"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16531",
+   "short": "Lei 16531/2024",
+   "title": "Lei nº 16.531, de 22 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54539",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54539/lei__no_16.531_-_22-03-2024.pdf",
+     "sha256": "d37b140b684aa146847708add1bb6077c7385e2517f7ade0f926020e6b208b53"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16530",
+   "short": "Lei 16530/2024",
+   "title": "Lei nº 16.530, de 22 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54538",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54538/lei__no_16.530_-_22-03-2024.pdf",
+     "sha256": "ea9256298d58b8130fdf1e720348e4dd48fac8f3364b1a139fa772345a7c1758"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16529",
+   "short": "Lei 16529/2024",
+   "title": "Lei nº 16.529, de 21 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54531",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54531/lei_no_16.529-2024.pdf",
+     "sha256": "600b1340b4d4b2ebff7b1124c60dfb683d2a26b5ffec1585672559d517f3bda7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16528",
+   "short": "Lei 16528/2024",
+   "title": "Lei nº 16.528, de 19 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54520",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54520/lei_no_16.528-2024.pdf",
+     "sha256": "9a6988b7f3752512211c7cef77091131c36a1f256d7fab42616627af684ae117"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16527",
+   "short": "Lei 16527/2024",
+   "title": "Lei nº 16.527, de 19 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54519",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54519/lei_no_16.527-2024.pdf",
+     "sha256": "7d2a7a02f04a252dbf6dd5c230de5f116b706dab38d1f65495e749342636d748"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00458",
+   "short": "LC 458/2024",
+   "title": "Lei Complementar nº 458, de 19 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54517",
+   "versions": [
+    {
+     "from": "2024-03-20",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54517/lei_complementar_no_458-_20_-03-2024.pdf",
+     "sha256": "8e8e4d4a113b27e41651eef181ad850cafb3bd8dacb5316679f2f9e78db94eaf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16526",
+   "short": "Lei 16526/2024",
+   "title": "Lei nº 16.526, de 8 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54462",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54462/lei__no_16.526_-_08-03-2024.pdf",
+     "sha256": "f6e244c4c12fdf1089cbc8bab9180d3d4df77b8e3f730cdd6b3f406d76e2f93d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16525",
+   "short": "Lei 16525/2024",
+   "title": "Lei nº 16.525, de 8 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54461",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54461/lei__no_16.525_-_08-03-2024.pdf",
+     "sha256": "3a175bea58a42a1d6b389a0f19b98f24cdf0a74b2e71fd3ec94e94a909208774"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16524",
+   "short": "Lei 16524/2024",
+   "title": "Lei nº 16.524, de 8 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54460",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 4,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54460/lei__no_16.524_-_08-03-2024.pdf",
+     "sha256": "36f0733c4577bf7e6b645948fdd4eab1d377d9ec12dff5c63687a3b3719df8c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16523",
+   "short": "Lei 16523/2024",
+   "title": "Lei nº 16.523, de 8 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54459",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54459/lei__no_16.523_-_08-03-2024.pdf",
+     "sha256": "6a7ffcb9160909e9a8f10fa5e02f077f57f6cc7a67b67b7205b6b11eac4f3070"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16521",
+   "short": "Lei 16521/2024",
+   "title": "Lei nº 16.521, de 5 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54444",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 6,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54444/lei_no_16.521-2024.pdf",
+     "sha256": "850007d52f56a2ecf0f66e16505b75bda6070583a9587f6fdc6e50e41542cfaa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16520",
+   "short": "Lei 16520/2024",
+   "title": "Lei nº 16.520, de 5 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54443",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54443/lei_no_16.520-2024.pdf",
+     "sha256": "bf599b222567031d94c3fbaf1bf935e0be186f520cb79434d81cab776a355edf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-16519",
+   "short": "Lei 16519/2024",
+   "title": "Lei nº 16.519, de 5 de março de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54442",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54442/lei_no_16.519-2024.pdf",
+     "sha256": "07be1dff81918010d3d149c4e059124c6a508dd3151f405f5d12f5206c651e4f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00450",
+   "short": "LC 450/2024",
+   "title": "Lei Complementar nº 450, de 27 de fevereiro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54411",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54411/lei_complementar_no_450_-_27_-02-2024.pdf",
+     "sha256": "fb648846f118d044a9ff7f066162df9217bafc357b7528487f9dc4bc0bf36d74"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00449",
+   "short": "LC 449/2024",
+   "title": "Lei Complementar nº 449, de 27 de fevereiro de 2024",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54410",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 5,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54410/lei_complementar_no_449-_27_-02-2024.pdf",
+     "sha256": "3cf5692d4433fc41fd348ff9162b7fa60b07312acd16a3b37057d93359e7c5e7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16518",
+   "short": "Lei 16518/2023",
+   "title": "Lei nº 16.518, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54272",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54272/lei_no_16.518-2023.pdf",
+     "sha256": "f5208587ea58e8a7cba909c958daa7538495b8a9221b0cf43ae84745115cf0ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16517",
+   "short": "Lei 16517/2023",
+   "title": "Lei nº 16.517, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54271",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54271/lei_no_16.517-2023.pdf",
+     "sha256": "648a08144ecca21fd7cefb718b1f9be43159dd9cc62af5aaf57cca00f6119a0a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16516",
+   "short": "Lei 16516/2023",
+   "title": "Lei nº 16.516, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54260",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54260/lei_no_16.516-2023.pdf",
+     "sha256": "db1e19e70d7a1518c62e1429931a660d10b7c70fc33699c3425165c6b6d9eb57"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16515",
+   "short": "Lei 16515/2023",
+   "title": "Lei nº 16.515, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54259",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54259/lei_no_16.515-2023.pdf",
+     "sha256": "9eb0710211f08e66b23ceb234cbde4b49f452aae051343f4d6985a299c4697e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16514",
+   "short": "Lei 16514/2023",
+   "title": "Lei nº 16.514, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54258",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54258/lei_no_16.514-2023.pdf",
+     "sha256": "87075f4fa4652d52faf2c0560f9b2d681b2909af77b63f41c444b8898206a696"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16513",
+   "short": "Lei 16513/2023",
+   "title": "Lei nº 16.513, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54256",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54256/lei_no_16.513-2023.pdf",
+     "sha256": "715ed2019b75f99818da7b94612e8296e18d7972107229e09994115926307401"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16512",
+   "short": "Lei 16512/2023",
+   "title": "Lei nº 16.512, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54257",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54257/lei_no_16.512-2023.pdf",
+     "sha256": "ba0ad7561b68626955ba83c23d833fc4e8c32b3642a26e4de3e9092c3e7cb64b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16511",
+   "short": "Lei 16511/2023",
+   "title": "Lei nº 16.511, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54254",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54254/lei_no_16.511-2023.pdf",
+     "sha256": "d07450de9ddb300a4ff73ea64cb62b3f65762cb8719b20c2f59ed236e310f16b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16510",
+   "short": "Lei 16510/2023",
+   "title": "Lei nº 16.510, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54253",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54253/lei_no_16.510-2023.pdf",
+     "sha256": "39f7bb085340ce2b56b35d0b7fb5a969f7abaad3ce0a19890e1be450eb9589a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16508",
+   "short": "Lei 16508/2023",
+   "title": "Lei nº 16.508, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54219",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54219/54219_texto_integral.pdf",
+     "sha256": "587557d076a5a32822629822a86ab1a3de7e7e537218492b8e8494c24e179303"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-16507",
+   "short": "Lei 16507/2023",
+   "title": "Lei nº 16.507, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/54218",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 3,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54218/54218_texto_integral.pdf",
+     "sha256": "be2048d92fbe5d10304d6c1e0a5c985e26d56f6af3b2d812cb0f798062df4c25"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00444",
+   "short": "LC 444/2023",
+   "title": "Lei Complementar nº 444, de 28 de dezembro de 2023",
+   "url": "https://sapl.campinas.sp.leg.br/norma/55628",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 13,
+     "source_url": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/55628/lei_complementar_no_444-_28_-12-2023.pdf",
+     "sha256": "7f91fa0c1f46b586f6376dc185876886c7bc225ffdec6b7368dc499a74791260"
+    }
+   ]
+  },
+  {
    "slug": "lei-2024-16680",
    "short": "Lei 16680/2024",
    "title": "Lei nº 16.680, de 23 de dezembro de 2024",

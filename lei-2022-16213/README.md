@@ -1,0 +1,9 @@
+# Lei nº 16.213, de 29 de março de 2022
+
+Lei 16213/2022 · 1 versions, from 2022-03-30 (latest in force: 2022-03-30) · <https://sapl.campinas.sp.leg.br/norma/51451>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |

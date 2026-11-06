@@ -1,0 +1,9 @@
+# Lei nº 16.407, de 14 de junho de 2023
+
+Lei 16407/2023 · 1 versions, from 2023-06-15 (latest in force: 2023-06-15) · <https://sapl.campinas.sp.leg.br/norma/53355>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |

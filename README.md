@@ -1,5 +1,7 @@
 # Campinas (city): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Campinas, São Paulo, Brazil, which global-law reads at `brazil/sao-paulo/campinas/acts/`.
+
 The municipal law of the Município de Campinas, São Paulo (Brazil) as a git history: one file per Artigo, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is Portuguese, the only official language.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
